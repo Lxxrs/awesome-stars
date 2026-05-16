@@ -16,9 +16,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
-- [F#](#f#)
 - [Fluent](#fluent)
-- [GDScript](#gdscript)
 - [Go](#go)
 - [Go Template](#go-template)
 - [Groovy](#groovy)
@@ -64,7 +62,6 @@
 - [YAML](#yaml)
 - [YARA](#yara)
 - [Zig](#zig)
-- [reStructuredText](#restructuredtext)
 
 ## Adblock Filter List 
 
@@ -194,8 +191,6 @@
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 
 ## CSS 
 
@@ -247,17 +242,9 @@
 
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 
-## F# # 
-
-- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
-
 ## Fluent 
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
-## GDScript 
-
-- [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 
 ## Go 
 
@@ -447,16 +434,13 @@
 
 ## JavaScript 
 
-- [OrangeX4/vscode-typst-sympy-calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator) - VS Code extension for Typst math calculating, includes Arithmetic, Calculous, Matrix, Custom Variances and Funcions by yourself
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [imputnet/uBlock](https://github.com/imputnet/uBlock) - 
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [TanStack/select](https://github.com/TanStack/select) - 🤖 Powerful select, multi-select and autocomplete primitives for the web. TS/JS, React, Solid, Svelte and Vue.
-- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Svelte plugin for https://vite.dev
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [rand256/valetudo](https://github.com/rand256/valetudo) - Valetudo RE - experimental vacuum software, cloud free
 - [rand256/valetudo-mapper](https://github.com/rand256/valetudo-mapper) - Valetudo companion service
@@ -486,7 +470,6 @@
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna) - The leaked exploit toolkit for various iOS versions
-- [taoky/Cider](https://github.com/taoky/Cider) - An abandoned Apple Music player built on Electron, slightly modified for my personal use.
 - [Moonfin-Client/Smart-TV](https://github.com/Moonfin-Client/Smart-TV) - Jellyfin Client for Smart-TVs
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [jellyfin/jellyfin-ios](https://github.com/jellyfin/jellyfin-ios) - Jellyfin for iOS
@@ -494,7 +477,6 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [thatdhruv/aqua2](https://github.com/thatdhruv/aqua2) - Aqua 2 is a self-contained UI framework for the web, inspired by Apple's Aqua design language.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [owntracks/frontend](https://github.com/owntracks/frontend) - 🌍 Web interface for OwnTracks built with Vue.js
@@ -517,12 +499,10 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [pwndoc/pwndoc](https://github.com/pwndoc/pwndoc) - Pentest Report Generator
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 - [learning-zone/website-templates](https://github.com/learning-zone/website-templates) - 150+ HTML5 Website Templates
 - [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -675,7 +655,6 @@
 ## Markdown 
 
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
-- [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
@@ -736,14 +715,12 @@
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [st-ty1/Arch-Linux_firmware-mod-kit](https://github.com/st-ty1/Arch-Linux_firmware-mod-kit) - How-to: Build firmware-mod-kit on Arch Linux/Artix
-- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter) - 
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [rive-app/awesome-rive](https://github.com/rive-app/awesome-rive) - An awesome list that curates Rive runtime examples, articles and tutorials, videos, resources and more!
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 - [preactjs/awesome-preact](https://github.com/preactjs/awesome-preact) - A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 - [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) - 🎉 The best resources related to Vuetify
-- [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [voidzero-dev/vite-plus-extension-pack](https://github.com/voidzero-dev/vite-plus-extension-pack) - 
 - [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents
 - [astral-sh/claude-code-plugins](https://github.com/astral-sh/claude-code-plugins) - 
@@ -767,7 +744,6 @@
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
-- [nuxt/awesome](https://github.com/nuxt/awesome) - A curated list of awesome things related to Nuxt.js
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - Curated list of open source alternatives to proprietary software.
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
@@ -1082,10 +1058,8 @@
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 
 ## QML 
 
@@ -1122,8 +1096,6 @@
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
@@ -1151,7 +1123,6 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
@@ -1277,7 +1248,6 @@
 
 ## Svelte 
 
-- [sveltejs/svelte-scroller](https://github.com/sveltejs/svelte-scroller) - A &lt;Scroller&gt; component for Svelte apps
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [lissy93/stack-match](https://github.com/lissy93/stack-match) - 😌 Find the perfect frontend framework, based on what matters most for your project
@@ -1309,13 +1279,10 @@
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [thunderbird/thunderbird-ios](https://github.com/thunderbird/thunderbird-ios) - Thunderbird for iOS – Open Source Email App for iOS
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
 ## TeX 
 
 - [becarpenter/book6](https://github.com/becarpenter/book6) - A collaborative IPv6 book
-- [StefanMacke/latex-einfuehrung](https://github.com/StefanMacke/latex-einfuehrung) - Die Quelltexte zur LaTeX-Einführung.
-- [StefanMacke/latex-vorlage-fiae](https://github.com/StefanMacke/latex-vorlage-fiae) - LaTeX-Vorlage zur Projektdokumentation für Fachinformatiker Anwendungsentwicklung
 
 ## Text 
 
@@ -1367,39 +1334,29 @@
 - [hiunicornstudio/unicornstudio.js](https://github.com/hiunicornstudio/unicornstudio.js) - The Javascript SDK for Unicorn.studio
 - [MoncyDev/Portfolio-Website](https://github.com/MoncyDev/Portfolio-Website) - My Portfolio Website Showcasing the website 3d interactions or experience and my work.
 - [Tajmirul/portfolio-2.0](https://github.com/Tajmirul/portfolio-2.0) - Showcasing my web dev skills with magic animation, and cutting-edge design.
-- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
 - [oxc-project/oxc-vscode](https://github.com/oxc-project/oxc-vscode) - Oxc VS Code Extension
 - [preactjs/preset-vite](https://github.com/preactjs/preset-vite) - Preset for using Preact with the vite bundler
-- [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Seamless integration of Vue 3, Bootstrap 5, and TypeScript for modern, type-safe UI development
-- [vueuse/skills](https://github.com/vueuse/skills) - Agent Skills for VueUse
-- [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 - [vuetifyjs/nuxt-module](https://github.com/vuetifyjs/nuxt-module) - 💚 Zero-config Nuxt Module for Vuetify
-- [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [vuejs/test-utils](https://github.com/vuejs/test-utils) - Vue Test Utils for Vue 3
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci) - Vue Ecosystem CI
-- [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Automatically configure your app to follow OWASP security patterns and principles by using HTTP Headers and Middleware
-- [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
 - [nuxt/cli](https://github.com/nuxt/cli) - Nuxt CLI
 - [nuxt/fonts](https://github.com/nuxt/fonts) - Plug-and-play web font optimization and configuration for Nuxt apps.
 - [nuxt/examples](https://github.com/nuxt/examples) - Deployed Nuxt examples
 - [nuxt/hints](https://github.com/nuxt/hints) - Nuxt module that shows hints for aspects of your application such as Performance, A11Y, Security, and more!
 - [nuxt/a11y](https://github.com/nuxt/a11y) - Nuxt module to provide accessibility hinting and utilities.
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
-- [nuxt/modules](https://github.com/nuxt/modules) - Discover the Nuxt modules to add any CMS, Database, UI, Auth and integrations into your Vue application.
 - [nuxt/icon](https://github.com/nuxt/icon) - The &lt;Icon&gt; component, supporting Iconify, Emojis and custom components.
 - [nuxt-modules/html-validator](https://github.com/nuxt-modules/html-validator) - HTML validation for Nuxt
 - [nuxt-modules/device](https://github.com/nuxt-modules/device) - Nuxt module for detecting device type.
-- [nuxt-modules/robots](https://github.com/nuxt-modules/robots) - Tame the robots crawling and indexing your Nuxt site.
 - [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss) - Tailwind CSS module for Nuxt
 - [nuxt-modules/color-mode](https://github.com/nuxt-modules/color-mode) - Dark and Light mode with auto detection made easy with Nuxt 🌗
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
 - [vitest-dev/vscode](https://github.com/vitest-dev/vscode) - VS Code extension for Vitest
 - [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue) - Vite Vue Plugins
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
-- [vite-pwa/nuxt](https://github.com/vite-pwa/nuxt) - Zero-config PWA Plugin for Nuxt 3
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 4 🏔💚⚡️
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). S
@@ -1413,7 +1370,6 @@
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [voidzero-dev/setup-vp](https://github.com/voidzero-dev/setup-vp) - GitHub Action to set up Vite+ with dependency caching support.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [lockdown-systems/cyd-mobile](https://github.com/lockdown-systems/cyd-mobile) - Cyd for iPhone and Android
 - [lockdown-systems/cyd-docs](https://github.com/lockdown-systems/cyd-docs) - Docs are now merged directly into https://github.com/lockdown-systems/cyd.social
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
@@ -1427,7 +1383,6 @@
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
-- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [TheMorpheus407/european-alternatives](https://github.com/TheMorpheus407/european-alternatives) - Discover European and open-source alternatives to US tech giants
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
@@ -1452,7 +1407,6 @@
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [yaegassy/coc-volar](https://github.com/yaegassy/coc-volar) - Volar (Fast Vue Language Support) extension for coc.nvim
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
@@ -1519,23 +1473,14 @@
 
 ## Vue 
 
-- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [hack-gpon/hack-gpon.github.io](https://github.com/hack-gpon/hack-gpon.github.io) - 
-- [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
 - [NicolaSpadari/portfolio](https://github.com/NicolaSpadari/portfolio) - My personal portfolio
 - [jamespurnama1/new-portfolio](https://github.com/jamespurnama1/new-portfolio) - Personal Portfolio Website
 - [LucaArgentieri/gsap-nuxt-module](https://github.com/LucaArgentieri/gsap-nuxt-module) - GSAP Module for Nuxt
 - [logotip4ik/portfolio](https://github.com/logotip4ik/portfolio) - My portfolio website build with Nuxt, Scss and GSAP
-- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
-- [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt
 - [nuxt/example-layers-monorepo](https://github.com/nuxt/example-layers-monorepo) - Example monorepo with Nuxt layers
-- [nuxt-ui-templates/landing](https://github.com/nuxt-ui-templates/landing) - Nuxt Landing Template made with Nuxt UI and Nuxt Content.
-- [nuxt-ui-templates/starter-vue](https://github.com/nuxt-ui-templates/starter-vue) - Vue Starter Template for Nuxt UI.
-- [nuxt-ui-templates/starter](https://github.com/nuxt-ui-templates/starter) - Nuxt Starter Template for Nuxt UI.
-- [nuxt-ui-templates/portfolio](https://github.com/nuxt-ui-templates/portfolio) - Nuxt Portfolio Template made with Nuxt UI and Nuxt Content.
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-- [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## YAML 
@@ -1551,10 +1496,6 @@
 
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-
-## reStructuredText 
-
-- [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
 
 
 ## License

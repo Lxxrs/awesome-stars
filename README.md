@@ -439,9 +439,6 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [imputnet/uBlock](https://github.com/imputnet/uBlock) - 
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-- [TanStack/select](https://github.com/TanStack/select) - 🤖 Powerful select, multi-select and autocomplete primitives for the web. TS/JS, React, Solid, Svelte and Vue.
-- [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Svelte plugin for https://vite.dev
-- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [rand256/valetudo](https://github.com/rand256/valetudo) - Valetudo RE - experimental vacuum software, cloud free
 - [rand256/valetudo-mapper](https://github.com/rand256/valetudo-mapper) - Valetudo companion service
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
@@ -461,7 +458,6 @@
 - [preactjs/vite-prerender-plugin](https://github.com/preactjs/vite-prerender-plugin) - Plugin for prerendering Vite applications in any framework
 - [preactjs/create-preact](https://github.com/preactjs/create-preact) - Create a Vite-powered Preact app in seconds
 - [preactjs/preact-render-to-string](https://github.com/preactjs/preact-render-to-string) - 📄 Universal rendering for Preact: render JSX and Preact components to HTML.
-- [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [gfxfundamentals/threejsfundamentals](https://github.com/gfxfundamentals/threejsfundamentals) - 
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -719,7 +715,6 @@
 - [rive-app/awesome-rive](https://github.com/rive-app/awesome-rive) - An awesome list that curates Rive runtime examples, articles and tutorials, videos, resources and more!
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 - [preactjs/awesome-preact](https://github.com/preactjs/awesome-preact) - A curated list of amazingly awesome things regarding Preact ecosystem :star2:
-- [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) - 🎉 The best resources related to Vuetify
 - [voidzero-dev/vite-plus-extension-pack](https://github.com/voidzero-dev/vite-plus-extension-pack) - 
 - [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents
 - [astral-sh/claude-code-plugins](https://github.com/astral-sh/claude-code-plugins) - 
@@ -861,7 +856,6 @@
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -1380,7 +1374,6 @@
 - [Xh4H/WhatsApp-device-activity-tracker](https://github.com/Xh4H/WhatsApp-device-activity-tracker) - 
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [yaegassy/coc-volar](https://github.com/yaegassy/coc-volar) - Volar (Fast Vue Language Support) extension for coc.nvim
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.

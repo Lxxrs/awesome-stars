@@ -448,6 +448,7 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [imputnet/uBlock](https://github.com/imputnet/uBlock) - 
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+- [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) - Open Source components of Little Snitch for Linux
 - [rand256/valetudo](https://github.com/rand256/valetudo) - Valetudo RE - experimental vacuum software, cloud free
 - [rand256/valetudo-mapper](https://github.com/rand256/valetudo-mapper) - Valetudo companion service
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
@@ -1117,7 +1118,6 @@
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [duriantaco/fyn](https://github.com/duriantaco/fyn) - Fyn is a fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows.
 - [withastro/compiler-rs](https://github.com/withastro/compiler-rs) - The Astro compiler
-- [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) - Open Source components of Little Snitch for Linux
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [claration/Impactor](https://github.com/claration/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.

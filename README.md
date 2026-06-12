@@ -265,6 +265,7 @@
 
 ## Go 
 
+- [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus
@@ -692,6 +693,7 @@
 
 ## Nix 
 
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven confi
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
@@ -948,6 +950,7 @@
 
 ## Python 
 
+- [astral-sh/ty-pre-commit](https://github.com/astral-sh/ty-pre-commit) - A pre-commit hook for ty.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [lucifer1004/claude-skill-typst](https://github.com/lucifer1004/claude-skill-typst) - Typst skill for agents.
@@ -1247,7 +1250,7 @@
 
 - [webcoyote/sandvault](https://github.com/webcoyote/sandvault) - Run AI agents isolated in a macOS user account and sandbox-exec. Configured to run Claude Code, OpenAI Codex, Cursor Agent, Google Gemini.
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
-- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team support. Named after the
+- [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants (e.g. Claude Code) into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team suppo
 - [deconz-community/deconz-docker](https://github.com/deconz-community/deconz-docker) - 
 - [zigbee2mqtt/hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
 - [homebridge/homebridge-raspbian-image](https://github.com/homebridge/homebridge-raspbian-image) - Official Homebridge Raspberry Pi Image based on Raspberry Pi OS Lite.

@@ -147,6 +147,7 @@
 
 ## C# # 
 
+- [lyarenei/jellyfin-plugin-listenbrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) - ListenBrainz plugin for Jellyfin.
 - [jellyfin/jellyfin-plugin-opensubtitles](https://github.com/jellyfin/jellyfin-plugin-opensubtitles) - 
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [CatNoir2006/jellyfin-plugin-MediathekViewDL](https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL) - Ein Plugin mit dem Sendungen von den Mediatheken der Öffentlich Rechtlichen heruntergladen werden können.
@@ -228,6 +229,7 @@
 
 ## Dart 
 
+- [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
@@ -265,6 +267,7 @@
 
 ## Go 
 
+- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
@@ -729,7 +732,6 @@
 
 ## Others 
 
-- [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [TheRettom/self-hosted-guide-opnsense](https://github.com/TheRettom/self-hosted-guide-opnsense) - OPNsense setup with CrowdSec, AdGuard Home, Unbound DoT, and Zenarmor.
 - [realrossmanngroup/no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) - Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.
 - [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
@@ -950,6 +952,7 @@
 
 ## Python 
 
+- [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [astral-sh/ty-pre-commit](https://github.com/astral-sh/ty-pre-commit) - A pre-commit hook for ty.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
@@ -1158,6 +1161,7 @@
 
 ## Rust 
 
+- [Fingel/gelly](https://github.com/Fingel/gelly) - A native music client for Jellyfin and Navidrome/Subsonic
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
@@ -1343,6 +1347,7 @@
 
 ## Swift 
 
+- [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [mbernson/HackerTube](https://github.com/mbernson/HackerTube) - Apple TV, iOS and macOS app for watching talks of the CCC on media.ccc.de
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
@@ -1381,6 +1386,7 @@
 
 ## TypeScript 
 
+- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
@@ -1546,6 +1552,8 @@
 
 ## Vue 
 
+- [jellyfin-labs/jellyamp](https://github.com/jellyfin-labs/jellyamp) - Desktop client for listening to music from a Jellyfin server
+- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [hack-gpon/hack-gpon.github.io](https://github.com/hack-gpon/hack-gpon.github.io) - 
 - [NicolaSpadari/portfolio](https://github.com/NicolaSpadari/portfolio) - My personal portfolio

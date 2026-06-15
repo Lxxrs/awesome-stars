@@ -482,6 +482,7 @@
 
 ## awesome 
 
+- [netbox-community/awesome-netbox](https://github.com/netbox-community/awesome-netbox) - A curated list of awesome NetBox resources
 - [awesome-mqtt/awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt) - Curated list of MQTT brokers, clients, tools, resources and more.
 - [iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
@@ -638,6 +639,7 @@
 
 ## awesome-list 
 
+- [netbox-community/awesome-netbox](https://github.com/netbox-community/awesome-netbox) - A curated list of awesome NetBox resources
 - [awesome-mqtt/awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt) - Curated list of MQTT brokers, clients, tools, resources and more.
 - [iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
@@ -992,6 +994,8 @@
 
 ## command-line 
 
+- [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
+- [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -1240,6 +1244,7 @@
 
 ## docker 
 
+- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [esphome/home-assistant-addon](https://github.com/esphome/home-assistant-addon) - ESPHome Home Assistant Add-on
@@ -1677,6 +1682,8 @@
 
 ## hacktoberfest 
 
+- [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox
+- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
@@ -2268,6 +2275,8 @@
 
 ## macos 
 
+- [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
+- [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [webcoyote/sandvault](https://github.com/webcoyote/sandvault) - Run AI agents isolated in a macOS user account and sandbox-exec. Configured to run Claude Code, OpenAI Codex, Cursor Agent, Google Gemini.
 - [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel) - A ruleset that turns AI coding assistants (e.g. Claude Code) into disciplined Linux, FreeBSD & macOS sysadmins. Manages servers via SSH and localhost with safety guardrails, checklists, and team suppo
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
@@ -2669,6 +2678,13 @@
 
 ## others 
 
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [netboxlabs/netbox-best-practices](https://github.com/netboxlabs/netbox-best-practices) - Best practices for NetBox API integrations, available for multiple AI coding assistants and human readers.
+- [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - Official NetBox Labs plugin that implements git-like branching functionality for NetBox
+- [netbox-community/netbox-zero-to-hero](https://github.com/netbox-community/netbox-zero-to-hero) - A short course designed to take new NetBox users from ‘Zero to Hero’.
+- [netbox-community/netbox-topology-views](https://github.com/netbox-community/netbox-topology-views) - A netbox plugin that draws topology views
+- [netbox-community/pynetbox](https://github.com/netbox-community/pynetbox) - Python API client library for Netbox.
+- [macports/macports-guide](https://github.com/macports/macports-guide) - A guide for MacPorts users and developers
 - [2manyvcos/enable-actual](https://github.com/2manyvcos/enable-actual) - Import transactions from European banks into Actual Budget using Enable Banking
 - [MattFaz/actualtap](https://github.com/MattFaz/actualtap) - Automatically create transactions in Actual Budget when you use Tap-to-Pay on a mobile device
 - [bobokun/actualtap-py](https://github.com/bobokun/actualtap-py) - Automatically create transactions in Actual Budget when you use Tap-to-Pay on a mobile device
@@ -3129,6 +3145,8 @@
 
 ## package-manager 
 
+- [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
+- [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
 - [aspiers/stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
@@ -3306,6 +3324,7 @@
 
 ## python 
 
+- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems

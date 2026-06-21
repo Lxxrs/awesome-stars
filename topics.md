@@ -268,6 +268,7 @@
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
 
 ## ai 
 
@@ -1249,8 +1250,9 @@
 
 ## docker 
 
+- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby..
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [esphome/home-assistant-addon](https://github.com/esphome/home-assistant-addon) - ESPHome Home Assistant Add-on
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
@@ -2551,6 +2553,7 @@
 
 ## nodejs 
 
+- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Ge
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
@@ -2588,7 +2591,7 @@
 ## obsidian 
 
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
-- [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) - A foundational Obsidian theme as the baseline of your thoughts.
+- [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) - A foundational Obsidian theme ― The baseline of your thoughts.
 - [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) - A native look and feel Obsidian theme crafted for the way you think.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 
@@ -2596,7 +2599,7 @@
 
 - [catppuccin/obsidian](https://github.com/catppuccin/obsidian) - 💎 Soothing pastel theme for Obsidian
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
-- [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) - A foundational Obsidian theme as the baseline of your thoughts.
+- [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) - A foundational Obsidian theme ― The baseline of your thoughts.
 - [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) - A native look and feel Obsidian theme crafted for the way you think.
 - [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
 
@@ -2966,7 +2969,7 @@
 - [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
 - [trimstray/linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist) - Simple checklist to help you deploying the most important areas of the GNU/Linux production systems - work in progress.
 - [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
-- [Moonfin-Client/Smart-TV](https://github.com/Moonfin-Client/Smart-TV) - Jellyfin Client for Smart-TVs
+- [Moonfin-Client/Smart-TV](https://github.com/Moonfin-Client/Smart-TV) - A premium Jellyfin Client for Tizen and webOS
 - [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg) - FFmpeg for Jellyfin with custom extensions and enhancements
 - [astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit) - 
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
@@ -3115,7 +3118,7 @@
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [mazay/truenas-grafana](https://github.com/mazay/truenas-grafana) - 
 - [EGottlieb/truenas_led](https://github.com/EGottlieb/truenas_led) - A script to control the LEDs on a UGreen NASync when running TrueNAS instead of UGOS.  Based on another user's script linked in the README.md file.
-- [devilmonastery/ugreen-truenas-leds](https://github.com/devilmonastery/ugreen-truenas-leds) - Control the LEDs on a UGREEN DXP6800 Pro running Truenas
+- [devilmonastery/ugreen-truenas-leds](https://github.com/devilmonastery/ugreen-truenas-leds) - Control the LEDs on a UGREEN DXP6800 Pro running Linux
 - [ich777/unraid-ugreenleds-driver](https://github.com/ich777/unraid-ugreenleds-driver) - 
 - [UGREEN-NASync/community-guide](https://github.com/UGREEN-NASync/community-guide) - Ugreen NASync Community guide
 - [0x556c79/install_ugreen_leds_controller](https://github.com/0x556c79/install_ugreen_leds_controller) - Simple bash script to install ugreen_leds_controller from https://github.com/miskcoo/ugreen_leds_controller
@@ -3609,7 +3612,6 @@
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs

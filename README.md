@@ -276,8 +276,11 @@
 
 ## Go 
 
+- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
+- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
@@ -979,6 +982,7 @@
 
 ## Python 
 
+- [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
 - [SideStore/Community-Source](https://github.com/SideStore/Community-Source) - Repo for our Community Source and Trusted Source submissions. Please create tickets here to request your app(s) be added to our Trusted Apps
@@ -1013,7 +1017,7 @@
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) - ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. 
 - [flipperdevices/flipper-application-catalog](https://github.com/flipperdevices/flipper-application-catalog) - Flipper Application Catalog
 - [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp
@@ -1383,7 +1387,6 @@
 
 ## Svelte 
 
-- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [lissy93/stack-match](https://github.com/lissy93/stack-match) - 😌 Find the perfect frontend framework, based on what matters most for your project
 

@@ -54,27 +54,31 @@ jobs:
         --topic \
         --topic_limit 500 \
         --filename by-topic.md
-          
-    - name: Update category by list
-      uses: Frestein/gaze-stars@main
-      with:
-        github-username: ${{ github.repository_owner }}
-        git-message: "Update by-list.md"
-        sort-by: stars
-        style: list
-        template-path: .github/templates/by-list.md
-        output-path: by-list.md
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
+  update-by-list:
+    name: Update category by list
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update category by list
+        uses: Frestein/gaze-stars@main
+        with:
+          github-username: ${{ github.repository_owner }}
+          git-message: "Update by-list.md"
+          sort-by: stars
+          style: list
+          template-path: .github/templates/by-list.md
+          output-path: by-list.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
   mirror:
+    name: Mirror to Codeberg
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
         with:
           fetch-depth: 0
-      - name: Mirrow to Codeberg
-        uses: yesolutions/mirror-action@master
+      - uses: yesolutions/mirror-action@master
         with:
           REMOTE: "https://codeberg.org/Lxrs/awesome-stars.git"
           GIT_USERNAME: ${{ secrets.CODEBERG_USERNAME }}

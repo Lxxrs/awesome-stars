@@ -889,7 +889,6 @@
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
-- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. Synced every hour. We don't handle Pull Requests.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
@@ -3063,7 +3062,6 @@
 - [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [google/building-secure-and-reliable-systems](https://github.com/google/building-secure-and-reliable-systems) - This repository contains the content of the book "Building Secure and Reliable Systems" by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, and Adam Stubblefield. Google wr
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
-- [xeals/signal-back](https://github.com/xeals/signal-back) - Decrypt Signal encrypted backups outside the app
 - [truenas/apps](https://github.com/truenas/apps) - 
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [jellyfin/jellyfin-webos](https://github.com/jellyfin/jellyfin-webos) - WebOS Client for Jellyfin
@@ -3133,9 +3131,6 @@
 - [webosbrew/youtube-webos](https://github.com/webosbrew/youtube-webos) - YouTube app for webOS without ads
 - [intel/FSP](https://github.com/intel/FSP) - Intel(R) Firmware Support Package (FSP)
 - [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
-- [Dasharo/coreboot](https://github.com/Dasharo/coreboot) - coreboot component of Dasharo
-- [protectli-root/build_coreboot](https://github.com/protectli-root/build_coreboot) - 
-- [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [seemoo-lab/watchwitch](https://github.com/seemoo-lab/watchwitch) - Android Interoperability for the Apple Watch
 - [auracast-research/race-toolkit](https://github.com/auracast-research/race-toolkit) - Communicate with Airoha-based Bluetooth devices using the RACE protocol via Bluetooth and USB.

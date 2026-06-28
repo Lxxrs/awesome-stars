@@ -1,4 +1,4 @@
-name: update awesome-stars
+name: awesome-stars Workflow
 
 on:
   workflow_dispatch:
@@ -6,24 +6,26 @@ on:
   - cron: 0 0 * * *
 
 jobs:
-  awesome-stars:
-    name: Update awesome-stars
-    runs-on: ubuntu-latest
-    
+  update:
+    name: Update by-language.md & by-topic.md
+    runs-on: ubuntu-latest  
     steps:
     - uses: actions/checkout@v7
+      with:
+        fetch-depth: 0
+
     - name: Set up Python
       uses: actions/setup-python@v6
       with:
         python-version: '3.13'
     
-    - name: Install dependencies
+    - name: Get repo name
+      run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+
+    - name: Install starred
       run: |
         python -m pip install --upgrade pip
         pip install starred
-    
-    - name: Get repo name
-      run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
     
     - name: Update category by language
       env:
@@ -54,15 +56,36 @@ jobs:
         --topic \
         --topic_limit 500 \
         --filename by-topic.md
-  
+ 
   update-by-list:
     name: Update category by list
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Get repo name
+        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+     
+
+      - name: Debug PAT and scopes
+        run: |
+          echo "Testing API_TOKEN access..."
+          curl -s -H "Authorization: token ${{ secrets.API_TOKEN }}" https://api.github.com/user | sed -n '1,10p'
+          echo
+          echo "PAT scopes:"
+          curl -I -H "Authorization: token ${{ secrets.API_TOKEN }}" https://api.github.com/user | grep -i x-oauth-scopes || true
+      
+
       - name: Update category by list
         uses: Frestein/gaze-stars@main
         with:
-          github-username: ${{ github.repository_owner }}
+          api-token: ${{ secrets.API_TOKEN }}
+          github-username: Lxxrs
+          git-name: github-actions[bot]
+          git-email: github-actions[bot]@users.noreply.github.com
           git-message: "Update by-list.md"
           sort-by: stars
           style: list
@@ -70,9 +93,11 @@ jobs:
           output-path: by-list.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
   
-  mirror:
+  codeberg-mirror:
     name: Mirror to Codeberg
+    needs: [update, update-by-list]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7

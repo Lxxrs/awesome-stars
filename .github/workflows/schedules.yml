@@ -1,33 +1,81 @@
 name: update awesome-stars
+
 on:
   workflow_dispatch:
   schedule:
-  - cron: 30 0 * * *
+  - cron: 0 0 * * *
+
 jobs:
   awesome-stars:
-    name: update awesome-stars
+    name: Update awesome-stars
     runs-on: ubuntu-latest
+    
     steps:
-    - uses: actions/checkout@v6
+    - uses: actions/checkout@v7
     - name: Set up Python
       uses: actions/setup-python@v6
       with:
         python-version: '3.13'
+    
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install starred
-    - name: get repository name
+    
+    - name: Get repo name
       run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
-    - name: update repo category by language
+    
+    - name: Update category by language
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language update by github actions cron, created by starred'
-    - name: update repo category by topic
+      run: | 
+        starred \
+        --username ${USERNAME} \
+        --repository ${REPOSITORY} \
+        --sort \
+        --token ${GITHUB_TOKEN} \
+        --message "Update by-language.md" \
+        --filename by-language.md
+    
+    - name: Update category by topic
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
+      run: |
+        starred \
+        --username ${USERNAME} \
+        --repository ${REPOSITORY} \
+        --sort \
+        --token ${GITHUB_TOKEN} \
+        --message "Update by-topic.md" \
+        --topic \
+        --topic_limit 500 \
+        --filename by-topic.md
+          
+    - name: Update category by list
+      uses: Frestein/gaze-stars@main
+      with:
+        github-username: ${{ github.repository_owner }}
+        git-message: "Update by-list.md"
+        sort-by: stars
+        style: list
+        template-path: .github/templates/by-list.md
+        output-path: by-list.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Mirrow to Codeberg
+        uses: yesolutions/mirror-action@master
+        with:
+          REMOTE: "https://codeberg.org/Lxrs/awesome-stars.git"
+          GIT_USERNAME: ${{ secrets.CODEBERG_USERNAME }}
+          GIT_PASSWORD: ${{ secrets.CODEBERG_TOKEN }}

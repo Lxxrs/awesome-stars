@@ -46,7 +46,6 @@
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [ggml-org/llama.vim](https://github.com/ggml-org/llama.vim) - Vim plugin for LLM-assisted code/text completion
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
@@ -215,6 +214,7 @@
 - [privacyguides/verified-apps](https://github.com/privacyguides/verified-apps) - Work-in-progress, not for production use.
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [amnezia-vpn/amneziawg-android](https://github.com/amnezia-vpn/amneziawg-android) - AmneziaWG for Android
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 
 <a name="automation-iac-devops-sre"></a>
 
@@ -325,7 +325,6 @@
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-- [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
 - [FULU-Foundation/CRW-Extension](https://github.com/FULU-Foundation/CRW-Extension) - Browser extension that shows a popup and notifications when the site, product, or service you're viewing has an article on the Consumer Rights Wiki.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
@@ -667,7 +666,7 @@
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
-- [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
+- [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [timothystewart6/launchpad](https://github.com/timothystewart6/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
@@ -734,6 +733,7 @@
 - [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX. 
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 <a name="ios-swift"></a>
 
@@ -791,6 +791,7 @@
 - [LeoKlaus/plappa](https://github.com/LeoKlaus/plappa) - An Audiobook client for Jellyfin and AudioBookShelf, written in Swift/SwiftUI.
 - [AudioBooth/AudioBooth](https://github.com/AudioBooth/AudioBooth) - An iOS companion for audiobookshelf
 - [MattFaz/actuali](https://github.com/MattFaz/actuali) - iOS client for Actual Budget 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 
 <a name="linux"></a>
 
@@ -808,7 +809,7 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [kiviktnm/decman](https://github.com/kiviktnm/decman) - Declarative package & configuration manager for Arch Linux.
-- [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell) - A ready to go Wayland status bar for Hyprland and Niri
+- [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell) - A ready to go status bar for Wayland compositors
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers 
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
@@ -816,7 +817,6 @@
 - [xarbit/plasma6-applet-appgrid](https://github.com/xarbit/plasma6-applet-appgrid) - AppGrid for Plasma is a modern alternative to Kickoff and Kicker. A grid launcher for KDE Plasma 6 — unified search, KRunner integration, animations.
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [quinneden/nixos-asahi-package](https://github.com/quinneden/nixos-asahi-package) - Builds a NixOS disk image and archive for use with the Asahi Installer to install NixOS on Apple Silicon machines.
-- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer) - Asahi Linux installer
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) - Open Source components of Little Snitch for Linux
@@ -1050,9 +1050,7 @@
 - [sonic-net/SONiC](https://github.com/sonic-net/SONiC) - Landing page for Software for Open Networking in the Cloud (SONiC) - https://sonic-net.github.io/SONiC/
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-- [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -1148,6 +1146,11 @@
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
 - [DimitriosNicolay/nix-config](https://github.com/DimitriosNicolay/nix-config) - 
+- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
+- [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
+- [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
+- [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 
 <a name="organization-productivity"></a>
 
@@ -1214,7 +1217,6 @@
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-- [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
@@ -1295,6 +1297,7 @@
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [astral-sh/ty-pre-commit](https://github.com/astral-sh/ty-pre-commit) - A pre-commit hook for ty.
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans. 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 
 <a name="security"></a>
 
@@ -1546,7 +1549,6 @@
 - [libvirt/libvirt](https://github.com/libvirt/libvirt) - Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) - AmneziaWG VPN protocol
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
@@ -1563,6 +1565,9 @@
 - [devinpleuler/analytics-handbook](https://github.com/devinpleuler/analytics-handbook) - Getting started with soccer analytics
 - [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat and WhoScored. 
 - [openfootball/deutschland](https://github.com/openfootball/deutschland) - Free open public domain football data for Germany (Deutschland) incl. Deutsche Bundesliga, 2. Bundesliga, 3. Liga, DFB Pokal etc.
+- [salimt/football-datasets](https://github.com/salimt/football-datasets) - Complete football/soccer datalake with 93000+ players from Transfermarkt. Includes player profiles, performance statistics, market values, transfer histories, injury records, national team data, and teammate relationships.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
+- [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 
 <a name="vim-neovim"></a>
 
@@ -1608,7 +1613,6 @@
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim
 - [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim.
-- [ggml-org/llama.vim](https://github.com/ggml-org/llama.vim) - Vim plugin for LLM-assisted code/text completion
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [hendrikmi/neovim-kickstart-config](https://github.com/hendrikmi/neovim-kickstart-config) - Simple Neovim config based on kickstart.nvim
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim

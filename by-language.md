@@ -152,6 +152,7 @@
 
 ## C# # 
 
+- [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [lyarenei/jellyfin-plugin-listenbrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) - ListenBrainz plugin for Jellyfin.
 - [jellyfin/jellyfin-plugin-opensubtitles](https://github.com/jellyfin/jellyfin-plugin-opensubtitles) - 
@@ -599,6 +600,7 @@
 
 ## Kotlin 
 
+- [GrakovNe/lissen-android](https://github.com/GrakovNe/lissen-android) - Minimalistic Android client app for Audiobookshelf
 - [amnezia-vpn/amneziawg-android](https://github.com/amnezia-vpn/amneziawg-android) - AmneziaWG for Android
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 - [privacyguides/verified-apps-android](https://github.com/privacyguides/verified-apps-android) - An Android app to more easily contribute to our Verified Apps database
@@ -668,7 +670,7 @@
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [hendrikmi/neovim-kickstart-config](https://github.com/hendrikmi/neovim-kickstart-config) - Simple Neovim config based on kickstart.nvim
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
-- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim.
@@ -1003,6 +1005,7 @@
 
 ## Python 
 
+- [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat and WhoScored.
@@ -1049,7 +1052,7 @@
 - [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) - ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. 
 - [flipperdevices/flipper-application-catalog](https://github.com/flipperdevices/flipper-application-catalog) - Flipper Application Catalog
 - [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no 
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [pycontribs/python-vagrant](https://github.com/pycontribs/python-vagrant) - Python bindings for interacting with Vagrant virtual machines.
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
@@ -1645,6 +1648,7 @@
 
 ## Vue 
 
+- [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [jellyfin-labs/jellyamp](https://github.com/jellyfin-labs/jellyamp) - Desktop client for listening to music from a Jellyfin server
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue

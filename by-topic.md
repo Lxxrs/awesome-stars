@@ -483,7 +483,7 @@
 
 ## arduino 
 
-- [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
+- [makers-pet/oomwoo](https://github.com/makers-pet/oomwoo) - Open-source vacuum robot cleaner
 
 ## artificial-intelligence 
 
@@ -1513,7 +1513,7 @@
 
 ## esp32 
 
-- [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
+- [makers-pet/oomwoo](https://github.com/makers-pet/oomwoo) - Open-source vacuum robot cleaner
 - [esphome/home-assistant-addon](https://github.com/esphome/home-assistant-addon) - ESPHome Home Assistant Add-on
 - [RavenSystem/esp-homekit-devices](https://github.com/RavenSystem/esp-homekit-devices) - Advanced firmware to add native Apple HomeKit and custom configurations, compatible with any SoC based on ESP32, ESP32-S, ESP32-C and ESP8266 series. (Shelly, Sonoff, Electrodragon, Tuya...)
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
@@ -1941,7 +1941,7 @@
 
 ## home-assistant 
 
-- [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
+- [makers-pet/oomwoo](https://github.com/makers-pet/oomwoo) - Open-source vacuum robot cleaner
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
 - [jlvcm/ha-actualbudget](https://github.com/jlvcm/ha-actualbudget) - Actual Budget integration for Home Assistant
@@ -3627,7 +3627,7 @@
 
 ## raspberry-pi 
 
-- [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
+- [makers-pet/oomwoo](https://github.com/makers-pet/oomwoo) - Open-source vacuum robot cleaner
 - [ironsheep/RPi-Reporter-MQTT2HA-Daemon](https://github.com/ironsheep/RPi-Reporter-MQTT2HA-Daemon) - Linux service to collect and transfer Raspberry Pi data via MQTT to Home Assistant (for RPi Monitoring)
 - [homebridge/homebridge-raspbian-image](https://github.com/homebridge/homebridge-raspbian-image) - Official Homebridge Raspberry Pi Image based on Raspberry Pi OS Lite.
 - [openhab/openhabian](https://github.com/openhab/openhabian) - openHABian - empowering the smart home, for Raspberry Pi and Debian systems

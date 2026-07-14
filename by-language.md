@@ -1546,6 +1546,7 @@
 - [suhanstha09/milesmorales_landonorris-clone-](https://github.com/suhanstha09/milesmorales_landonorris-clone-) - Spiderman miles morales website built taking lando norrises official website as refrence.
 - [MoncyDev/Portfolio-Website](https://github.com/MoncyDev/Portfolio-Website) - My Portfolio Website Showcasing the website 3d interactions or experience and my work.
 - [Tajmirul/portfolio-2.0](https://github.com/Tajmirul/portfolio-2.0) - Showcasing my web dev skills with magic animation, and cutting-edge design.
+- [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
 - [oxc-project/oxc-vscode](https://github.com/oxc-project/oxc-vscode) - Oxc VS Code Extension
 - [preactjs/preset-vite](https://github.com/preactjs/preset-vite) - Preset for using Preact with the vite bundler
@@ -1663,7 +1664,6 @@
 - [NicolaSpadari/portfolio](https://github.com/NicolaSpadari/portfolio) - My personal portfolio
 - [jamespurnama1/new-portfolio](https://github.com/jamespurnama1/new-portfolio) - Personal Portfolio Website
 - [logotip4ik/portfolio](https://github.com/logotip4ik/portfolio) - My portfolio website build with Nuxt, Scss and GSAP
-- [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 

@@ -2444,6 +2444,7 @@
 
 ## macos 
 
+- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Dadoum/Sideloader](https://github.com/Dadoum/Sideloader) - Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…
 - [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
@@ -2894,7 +2895,7 @@
 - [SideloadlyiOS/Sideloadly-Download](https://github.com/SideloadlyiOS/Sideloadly-Download) - Sideloadly - iOS, Apple Silicon & TV Sideloading
 - [jkcoxson/idevice](https://github.com/jkcoxson/idevice) - A library to interact with services exposed by iOS
 - [Dadoum/anisette-v3-server](https://github.com/Dadoum/anisette-v3-server) - sidestore's anisette-v3 compatible server
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [netboxlabs/netbox-best-practices](https://github.com/netboxlabs/netbox-best-practices) - Best practices for NetBox API integrations, available for multiple AI coding assistants and human readers.
 - [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - Official NetBox Labs plugin that implements git-like branching functionality for NetBox
 - [netbox-community/netbox-zero-to-hero](https://github.com/netbox-community/netbox-zero-to-hero) - A short course designed to take new NetBox users from ‘Zero to Hero’.
@@ -4051,6 +4052,7 @@
 
 ## swift 
 
+- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) - An experimental Gecko-based web browser for iOS 13+.
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
@@ -4067,6 +4069,7 @@
 
 ## swiftui 
 
+- [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [mbernson/HackerTube](https://github.com/mbernson/HackerTube) - Apple TV, iOS and macOS app for watching talks of the CCC on media.ccc.de
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks

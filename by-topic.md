@@ -2869,6 +2869,7 @@
 
 ## others 
 
+- [tigard-tools/tigard](https://github.com/tigard-tools/tigard) - An FTDI FT2232H-based multi-protocol tool for hardware hacking
 - [opnsense/src](https://github.com/opnsense/src) - OPNsense operating system
 - [dteslya/vrnetlab-images](https://github.com/dteslya/vrnetlab-images) - 
 - [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
@@ -3168,7 +3169,7 @@
 - [hacks-guide/MSET9](https://github.com/hacks-guide/MSET9) - Ultimate gift of Lenny
 - [Universal-Team/db](https://github.com/Universal-Team/db) - Universal-DB - An online database of 3DS and DS homebrew
 - [PretendoNetwork/nimbus](https://github.com/PretendoNetwork/nimbus) - 
-- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save manager for 3DS and Switch.
+- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save management framework for 3DS and Switch.
 - [mtheall/ftpd](https://github.com/mtheall/ftpd) - FTP Server for 3DS/Switch
 - [d0k3/GodMode9](https://github.com/d0k3/GodMode9) - GodMode9 Explorer - A full access file browser for the Nintendo 3DS console :godmode:
 - [SciresM/boot9strap](https://github.com/SciresM/boot9strap) - Boot9/Boot11 code execution.

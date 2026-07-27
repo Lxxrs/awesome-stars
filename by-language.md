@@ -197,7 +197,7 @@
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [PretendoNetwork/nimbus](https://github.com/PretendoNetwork/nimbus) - 
-- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save manager for 3DS and Switch.
+- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save management framework for 3DS and Switch.
 - [mtheall/ftpd](https://github.com/mtheall/ftpd) - FTP Server for 3DS/Switch
 - [joel16/3DSident](https://github.com/joel16/3DSident) - PSPident clone for 3DS
 - [Universal-Team/Universal-Updater](https://github.com/Universal-Team/Universal-Updater) - An easy to use app for installing and updating 3DS homebrew
@@ -782,6 +782,7 @@
 
 ## Others 
 
+- [tigard-tools/tigard](https://github.com/tigard-tools/tigard) - An FTDI FT2232H-based multi-protocol tool for hardware hacking
 - [dteslya/vrnetlab-images](https://github.com/dteslya/vrnetlab-images) - 
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [salimt/football-datasets](https://github.com/salimt/football-datasets) - Complete football/soccer datalake with 93000+ players from Transfermarkt. Includes player profiles, performance statistics, market values, transfer histories, injury records, national team data, and t

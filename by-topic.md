@@ -2890,7 +2890,7 @@
 - [srl-labs/vrnetlab](https://github.com/srl-labs/vrnetlab) - Make VM-based Network OSes run in Containerlab
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [denog/routing-guide](https://github.com/denog/routing-guide) - Guide for routing/bgp best practices
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [GrakovNe/lissen-android](https://github.com/GrakovNe/lissen-android) - Minimalistic Android client app for Audiobookshelf
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively

@@ -310,6 +310,7 @@
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
+- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [hkdb/aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E-Mail Client
@@ -501,6 +502,7 @@
 
 ## JavaScript 
 
+- [mdn/mcp](https://github.com/mdn/mcp) - MDN's prototype MCP server
 - [netlify/netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse) - Netlify Plugin to run Lighthouse on each build
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [manrajgrover/football-cli](https://github.com/manrajgrover/football-cli) - ⚽ Command line interface for Hackers who love football
@@ -509,7 +511,6 @@
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Ge
-- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [streamyfin/jellyfin-plugin-streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin) - Companion plugin for Streamyfin
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
@@ -728,6 +729,7 @@
 
 ## MDX 
 
+- [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
 - [astrolicious/astro-tips.dev](https://github.com/astrolicious/astro-tips.dev) - The place for content that goes beyond the official docs, for all Astronauts!
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
@@ -1477,7 +1479,7 @@
 - [MattFaz/actuali](https://github.com/MattFaz/actuali) - iOS client for Actual Budget
 - [AudioBooth/AudioBooth](https://github.com/AudioBooth/AudioBooth) - An iOS companion for audiobookshelf
 - [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) - An experimental Gecko-based web browser for iOS 13+.
-- [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
+- [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [mysk-research/loupe](https://github.com/mysk-research/loupe) - A privacy-focused iOS app that raises awareness about what native apps can see
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
@@ -1521,6 +1523,7 @@
 
 ## TypeScript 
 
+- [withastro/prettier-plugin-astro](https://github.com/withastro/prettier-plugin-astro) - Prettier plugin for Astro
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages

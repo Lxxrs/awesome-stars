@@ -1512,6 +1512,7 @@
 - [typst/citationberg](https://github.com/typst/citationberg) - A library for parsing CSL styles.
 - [YDX-2147483647/best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - 🏆 A ranked list of awesome projects related to Typst, or the charted dark matter in Typst Universe (TCDM). 🌌
 - [lucifer1004/claude-skill-typst](https://github.com/lucifer1004/claude-skill-typst) - Typst skill for agents.
+- [duskmoon314/typst-fontawesome](https://github.com/duskmoon314/typst-fontawesome) - A Typst package for Font Awesome icons through the desktop fonts.
 
 <a name="unsorted"></a>
 
@@ -1828,7 +1829,7 @@
 - [astrolicious/astro-tips.dev](https://github.com/astrolicious/astro-tips.dev) - The place for content that goes beyond the official docs, for all Astronauts!
 - [TanStack/cli](https://github.com/TanStack/cli) - The official TanStack CLI - Project Scaffolding, MCP Server, Agent Skills Installation, etc
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
+- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup. 

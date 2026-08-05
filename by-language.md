@@ -76,7 +76,7 @@
 - [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) - A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).
 - [nicremo/astro-multilingual-portfolio-template](https://github.com/nicremo/astro-multilingual-portfolio-template) - Modern multilingual portfolio website template built with Astro SSG and Tailwind CSS. Features i18n support, dark/light mode, responsive design, and SEO optimization for developer portfolios.
 - [markhorn-dev/astro-sphere](https://github.com/markhorn-dev/astro-sphere) - Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog.
-- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
+- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
 - [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar) - Astro-Navbar is a fully responsive headless navigation bar for Astro. It supports mobile responsive toggle and dropdowns.
 - [incluud/color-contrast-checker](https://github.com/incluud/color-contrast-checker) - WCAG 2.2 color contrast validator with design system integration. Test accessibility compliance, generate OKLCH palettes, export CSS custom properties and Figma-compatible JSON tokens. Build with Astr
 - [incluud/accessible-astro-components](https://github.com/incluud/accessible-astro-components) - A collection of accessible components for Astro projects with built-in ARIA attributes, keyboard navigation and interactive elements. Easy to implement and customize to your needs.
@@ -1672,6 +1672,8 @@
 
 ## Typst 
 
+- [typst-community/linguify](https://github.com/typst-community/linguify) - typst package to load strings for different languages easily.
+- [duskmoon314/typst-fontawesome](https://github.com/duskmoon314/typst-fontawesome) - A Typst package for Font Awesome icons through the desktop fonts.
 - [YDX-2147483647/best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - 🏆 A ranked list of awesome projects related to Typst, or the charted dark matter in Typst Universe (TCDM). 🌌
 - [typst/templates](https://github.com/typst/templates) - Templates that are directly maintained by the Typst team.
 - [marcothms/clean-polylux-typst](https://github.com/marcothms/clean-polylux-typst) - A clean and dynamic polylux presentation template for typst 0.10

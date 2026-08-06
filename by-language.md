@@ -439,9 +439,9 @@
 
 ## HTML 
 
+- [srl-labs/learn-srlinux](https://github.com/srl-labs/learn-srlinux) - Documentation As Code for Learn SR Linux
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
-- [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
 - [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
@@ -502,6 +502,7 @@
 
 ## JavaScript 
 
+- [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile) - Legacy Zulip mobile apps for Android and iOS
 - [mdn/mcp](https://github.com/mdn/mcp) - MDN's prototype MCP server
 - [netlify/netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse) - Netlify Plugin to run Lighthouse on each build
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
@@ -517,6 +518,7 @@
 - [volkovmqx/cccbib](https://github.com/volkovmqx/cccbib) - media.ccc.de media library application for webOS. Think of it as a Netflix for hackers
 - [adamff-dev/twitch-adfree-webos](https://github.com/adamff-dev/twitch-adfree-webos) - A WebOS app for Twitch that blocks ads, automatically claims channel points, unlocks subscriber-only VODs, and includes customizable transparent chat styles.
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
+- [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -1273,6 +1275,7 @@
 
 ## Rust 
 
+- [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1373,6 +1376,7 @@
 
 ## Shell 
 
+- [opencomputeproject/onie](https://github.com/opencomputeproject/onie) - Open Network Install Environment
 - [CachyOS/cachyos-fish-config](https://github.com/CachyOS/cachyos-fish-config) - 
 - [hcartiaux/openbsd-cloud-image](https://github.com/hcartiaux/openbsd-cloud-image) - Qcow2 image builder for OpenBSD
 - [cofob/tailscale-nym-fuse](https://github.com/cofob/tailscale-nym-fuse) - Use Nym VPN as a Tailscale Exit Node
@@ -1472,6 +1476,7 @@
 
 ## Swift 
 
+- [apphane-dev/nehir](https://github.com/apphane-dev/nehir) - Nehir — a tiling window manager for macOS
 - [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app) - Free up your Mac, safely. Clears the cache and junk it piles up on its own. Open source, and everything goes to the Trash, so nothing is ever lost.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
@@ -1654,7 +1659,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [joinloops/loops-expo](https://github.com/joinloops/loops-expo) - The federated short video sharing platform app.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website

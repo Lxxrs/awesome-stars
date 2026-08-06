@@ -225,6 +225,7 @@
 - [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
 - [GrakovNe/lissen-android](https://github.com/GrakovNe/lissen-android) - Minimalistic Android client app for Audiobookshelf
 - [FossifyOrg/Documents](https://github.com/FossifyOrg/Documents) - A simple and clean document app that protects your privacy
+- [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile) - Legacy Zulip mobile apps for Android and iOS
 
 <a name="automation-iac-devops-sre"></a>
 
@@ -349,6 +350,7 @@
 - [T3-Content/unduck](https://github.com/T3-Content/unduck) - A fast, local-first "search engine" for !bang users
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
+- [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 
 <a name="career-learning-docs"></a>
 
@@ -765,6 +767,7 @@
 - [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the "No valid subscription" dialog on all Proxmox products, all versions.
 - [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense) - Ansible Collection to manage OPNsense firewalls using their API
 - [ndi-ct/self-hosting-beispiele](https://github.com/ndi-ct/self-hosting-beispiele) - 
+- [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 
 <a name="ios-swift"></a>
 
@@ -824,6 +827,7 @@
 - [MattFaz/actuali](https://github.com/MattFaz/actuali) - iOS client for Actual Budget 
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
+- [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile) - Legacy Zulip mobile apps for Android and iOS
 
 <a name="linux"></a>
 
@@ -866,7 +870,7 @@
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [vicrodh/qbz](https://github.com/vicrodh/qbz) - A native, full-featured hi-fi Qobuz desktop player for Linux and MacOS, with fast, bit-perfect audio playback.
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 
 <a name="mac"></a>
 
@@ -923,6 +927,7 @@
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app) - Free up your Mac, safely. Clears the cache and junk it piles up on its own. Open source, and everything goes to the Trash, so nothing is ever lost.
+- [apphane-dev/nehir](https://github.com/apphane-dev/nehir) - Nehir — a tiling window manager for macOS
 
 <a name="mediaserver-smart-tv"></a>
 
@@ -1158,6 +1163,7 @@
 - [clabernetes/clabernetes](https://github.com/clabernetes/clabernetes) - containerlab, but in kubernetes!
 - [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense) - Ansible Collection to manage OPNsense firewalls using their API
+- [opencomputeproject/onie](https://github.com/opencomputeproject/onie) - Open Network Install Environment
 
 <a name="nix"></a>
 

@@ -18,6 +18,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
+- [Fluent](#fluent)
 - [Go](#go)
 - [Go Template](#go-template)
 - [Groovy](#groovy)
@@ -280,6 +281,10 @@
 
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## Go 
 
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
@@ -434,6 +439,8 @@
 
 ## HTML 
 
+- [hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Free Images for EVE-NG and GNS3 containing routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Master the art of networking and improve your skill
+- [gnu-gnu/network-fundamentals-lab](https://github.com/gnu-gnu/network-fundamentals-lab) - Hands-on network troubleshooting labs — break, observe, and fix core TCP/IP concepts using containerlab
 - [srl-labs/learn-srlinux](https://github.com/srl-labs/learn-srlinux) - Documentation As Code for Learn SR Linux
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -456,7 +463,6 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [LeftValues/leftvalues.github.io](https://github.com/LeftValues/leftvalues.github.io) - LeftValues, a leftist political quiz
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
@@ -796,6 +802,8 @@
 
 ## Others 
 
+- [narrowin/ansible-mikrotik](https://github.com/narrowin/ansible-mikrotik) - Ansible playbooks to fully manage and operate Mikrotik RouterOS networks
+- [vista-/denog17-containerlab-workshop](https://github.com/vista-/denog17-containerlab-workshop) - 
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [ndi-ct/self-hosting-beispiele](https://github.com/ndi-ct/self-hosting-beispiele) - 
 - [tigard-tools/tigard](https://github.com/tigard-tools/tigard) - An FTDI FT2232H-based multi-protocol tool for hardware hacking
@@ -1028,6 +1036,7 @@
 
 ## Python 
 
+- [grplyler/cisco-cheatsheet](https://github.com/grplyler/cisco-cheatsheet) - A Cisco Cheatsheet: Commands and Snippets for bootstrapping, boilerplate, configuration, and hardening of Cisco routers and switches.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [netboxlabs/netbox-learning](https://github.com/netboxlabs/netbox-learning) - Resources, tutorials and demos for NetBox from NetBox Labs
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
@@ -1371,6 +1380,8 @@
 
 ## Shell 
 
+- [ciscoittech/containerlab-free-labs](https://github.com/ciscoittech/containerlab-free-labs) - Free containerlab network labs - Learn OSPF, BGP, and Linux networking with hands-on exercises. 75% less memory than GNS3/EVE-NG. One-click VS Code devcontainer setup.
+- [NetAuto-RheinMain/NetAuto-Bootcamp](https://github.com/NetAuto-RheinMain/NetAuto-Bootcamp) - An introduction into the world of Network Automation
 - [opencomputeproject/onie](https://github.com/opencomputeproject/onie) - Open Network Install Environment
 - [CachyOS/cachyos-fish-config](https://github.com/CachyOS/cachyos-fish-config) - 
 - [hcartiaux/openbsd-cloud-image](https://github.com/hcartiaux/openbsd-cloud-image) - Qcow2 image builder for OpenBSD
@@ -1660,7 +1671,7 @@
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.

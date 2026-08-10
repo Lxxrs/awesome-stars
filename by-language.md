@@ -57,7 +57,6 @@
 - [Swift](#swift)
 - [Tcl](#tcl)
 - [TeX](#tex)
-- [Text](#text)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vala](#vala)
@@ -287,6 +286,10 @@
 
 ## Go 
 
+- [DropMorePackets/berghain](https://github.com/DropMorePackets/berghain) - A Go and HAProxy-powered bouncer, ensuring that only the coolest browsers get access to the backend party!
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) - Exporter for systemd unit metrics
+- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [browningluke/terraform-provider-opnsense](https://github.com/browningluke/terraform-provider-opnsense) - OPNsense Terraform Provider
@@ -1036,6 +1039,8 @@
 
 ## Python 
 
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [grplyler/cisco-cheatsheet](https://github.com/grplyler/cisco-cheatsheet) - A Cisco Cheatsheet: Commands and Snippets for bootstrapping, boilerplate, configuration, and hardening of Cisco routers and switches.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [netboxlabs/netbox-learning](https://github.com/netboxlabs/netbox-learning) - Resources, tutorials and demos for NetBox from NetBox Labs
@@ -1426,7 +1431,6 @@
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth
 - [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [throwaway96/faultmanager-autoroot](https://github.com/throwaway96/faultmanager-autoroot) - Exploit to root webOS 4.0+ TVs and set up Homebrew Channel
@@ -1527,10 +1531,6 @@
 ## TeX 
 
 - [becarpenter/book6](https://github.com/becarpenter/book6) - A collaborative IPv6 book
-
-## Text 
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
@@ -1739,6 +1739,7 @@
 
 ## Zig 
 
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 

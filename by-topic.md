@@ -488,6 +488,7 @@
 
 ## archlinux 
 
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
@@ -1015,6 +1016,8 @@
 
 ## cli 
 
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [manrajgrover/football-cli](https://github.com/manrajgrover/football-cli) - ⚽ Command line interface for Hackers who love football
@@ -1426,7 +1429,6 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [lovelaze/nebula-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi-hole v6.x instances.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -1488,6 +1490,7 @@
 
 ## dotnet 
 
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -1699,6 +1702,7 @@
 
 ## go 
 
+- [DropMorePackets/berghain](https://github.com/DropMorePackets/berghain) - A Go and HAProxy-powered bouncer, ensuring that only the coolest browsers get access to the backend party!
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
@@ -1856,6 +1860,7 @@
 
 ## hacktoberfest 
 
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [NetAuto-RheinMain/NetAuto-Bootcamp](https://github.com/NetAuto-RheinMain/NetAuto-Bootcamp) - An introduction into the world of Network Automation
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -2304,7 +2309,6 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -2363,6 +2367,7 @@
 
 ## linux 
 
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Dadoum/Sideloader](https://github.com/Dadoum/Sideloader) - Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…
@@ -2566,7 +2571,6 @@
 ## malware 
 
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## markdown 
 
@@ -2674,6 +2678,7 @@
 
 ## music 
 
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [Fingel/gelly](https://github.com/Fingel/gelly) - A native music client for Jellyfin and Navidrome/Subsonic
 - [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
@@ -2935,6 +2940,9 @@
 
 ## others 
 
+- [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) - Exporter for systemd unit metrics
+- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus
 - [hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Free Images for EVE-NG and GNS3 containing routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Master the art of networking and improve your skill
 - [grplyler/cisco-cheatsheet](https://github.com/grplyler/cisco-cheatsheet) - A Cisco Cheatsheet: Commands and Snippets for bootstrapping, boilerplate, configuration, and hardening of Cisco routers and switches.
 - [ciscoittech/containerlab-free-labs](https://github.com/ciscoittech/containerlab-free-labs) - Free containerlab network labs - Learn OSPF, BGP, and Linux networking with hands-on exercises. 75% less memory than GNS3/EVE-NG. One-click VS Code devcontainer setup.
@@ -3446,6 +3454,7 @@
 
 ## package-manager 
 
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client
 - [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
@@ -3496,7 +3505,6 @@
 ## phishing 
 
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## php 
 
@@ -3579,7 +3587,6 @@
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 
@@ -3642,6 +3649,7 @@
 
 ## python 
 
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [NetAuto-RheinMain/NetAuto-Bootcamp](https://github.com/NetAuto-RheinMain/NetAuto-Bootcamp) - An introduction into the world of Network Automation
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -3929,6 +3937,7 @@
 
 ## security 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.

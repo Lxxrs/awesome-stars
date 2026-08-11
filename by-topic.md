@@ -1860,6 +1860,7 @@
 
 ## hacktoberfest 
 
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [NetAuto-RheinMain/NetAuto-Bootcamp](https://github.com/NetAuto-RheinMain/NetAuto-Bootcamp) - An introduction into the world of Network Automation
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
@@ -3626,6 +3627,7 @@
 
 ## project-management 
 
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
@@ -3784,6 +3786,7 @@
 
 ## react 
 
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [whisper-money/whisper-money](https://github.com/whisper-money/whisper-money) - Understand your personal finances. Forget Excels, try Whisper Money.
@@ -4039,6 +4042,7 @@
 
 ## self-hosted 
 
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [Locatarr/locatarr.github.io](https://github.com/Locatarr/locatarr.github.io) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
@@ -4302,6 +4306,7 @@
 
 ## typescript 
 
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.

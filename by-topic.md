@@ -270,6 +270,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
+- [zig](#zig)
 - [zsh](#zsh)
 
 ## 3d 
@@ -1490,7 +1491,6 @@
 
 ## dotnet 
 
-- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -1860,7 +1860,6 @@
 
 ## hacktoberfest 
 
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [NetAuto-RheinMain/NetAuto-Bootcamp](https://github.com/NetAuto-RheinMain/NetAuto-Bootcamp) - An introduction into the world of Network Automation
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
@@ -2119,7 +2118,7 @@
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [flipperdevices/Flipper-iOS-App](https://github.com/flipperdevices/Flipper-iOS-App) - iOS Mobile App to rule all Flipper's family
-- [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application.
+- [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
@@ -2601,6 +2600,7 @@
 
 ## mcp 
 
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -2941,6 +2941,7 @@
 
 ## others 
 
+- [svalabs/terraform-provider-forgejo](https://github.com/svalabs/terraform-provider-forgejo) - Terraform and OpenTofu provider for Forgejo
 - [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) - Exporter for systemd unit metrics
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus
@@ -3084,7 +3085,6 @@
 - [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing HV exploits to run a custom bootloader
 - [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
-- [open-noodle/gallery](https://github.com/open-noodle/gallery) - High performance self-hosted photo and video management solution.
 - [pyinfra-dev/pyinfra-examples](https://github.com/pyinfra-dev/pyinfra-examples) - A set of documented and tested pyinfra deploys.
 - [typst/biblatex](https://github.com/typst/biblatex) - A Rust crate for parsing and writing BibTeX and BibLaTeX files.
 - [typst/templates](https://github.com/typst/templates) - Templates that are directly maintained by the Typst team.
@@ -4056,6 +4056,7 @@
 - [whisper-money/whisper-money](https://github.com/whisper-money/whisper-money) - Understand your personal finances. Forget Excels, try Whisper Money.
 - [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - 🔍 An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+- [open-noodle/gallery](https://github.com/open-noodle/gallery) - High performance self-hosted photo and video management solution.
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -4552,6 +4553,10 @@
 - [timothystewart6/launchpad](https://github.com/timothystewart6/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [timothystewart6/techno-tim.github.io](https://github.com/timothystewart6/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/  Complete with examples for all your copy pasta needs!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+
+## zig 
+
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 
 ## zsh 
 

@@ -104,7 +104,7 @@
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - 
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
 - [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) - ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co
@@ -135,6 +135,9 @@
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
+- [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 
 <a name="android"></a>
 
@@ -563,6 +566,7 @@
 - [CachyOS/cachyos-fish-config](https://github.com/CachyOS/cachyos-fish-config) - 
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+- [rockorager/monstar](https://github.com/rockorager/monstar) - wayland terminal based on libghostty. cpu rendered, like foot
 
 <a name="git-github"></a>
 
@@ -635,7 +639,7 @@
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [kbr/fritzconnection](https://github.com/kbr/fritzconnection) - Python-Tool to communicate with the AVM Fritz!Box by the TR-064 protocol and the AHA-HTTP-Interface
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
-- [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter for  Mikrotik RouterOS devices
+- [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter  and CLI GitOps Configurations for Mikrotik RouterOS devices
 - [eworm-de/routeros-scripts](https://github.com/eworm-de/routeros-scripts) - a collection of scripts for MikroTik RouterOS
 - [AthennaMind/opnsense-exporter](https://github.com/AthennaMind/opnsense-exporter) - OPNsense Exporter for Prometheus
 - [mirceanton/mikrotik-terraform](https://github.com/mirceanton/mikrotik-terraform) - Terraform configuration for my entire Mikrotik-powered home network.
@@ -880,6 +884,7 @@
 - [vicrodh/qbz](https://github.com/vicrodh/qbz) - A native, full-featured hi-fi Qobuz desktop player for Linux and MacOS, with fast, bit-perfect audio playback.
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
+- [rockorager/monstar](https://github.com/rockorager/monstar) - wayland terminal based on libghostty. cpu rendered, like foot
 
 <a name="mac"></a>
 
@@ -897,7 +902,7 @@
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [asmvik/skhd](https://github.com/asmvik/skhd) -  Simple hotkey daemon for macOS
@@ -937,6 +942,7 @@
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app) - Free up your Mac, safely. Clears the cache and junk it piles up on its own. Open source, and everything goes to the Trash, so nothing is ever lost.
 - [apphane-dev/nehir](https://github.com/apphane-dev/nehir) - Nehir — a tiling window manager for macOS
+- [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
 
 <a name="mediaserver-smart-tv"></a>
 
@@ -1048,7 +1054,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
-- [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter for  Mikrotik RouterOS devices
+- [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter  and CLI GitOps Configurations for Mikrotik RouterOS devices
 - [AthennaMind/opnsense-exporter](https://github.com/AthennaMind/opnsense-exporter) - OPNsense Exporter for Prometheus
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -1072,6 +1078,17 @@
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter) - Exporter for systemd unit metrics
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [spujadas/elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
+- [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
+- [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
+- [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
+- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+- [maxmind/geoipupdate](https://github.com/maxmind/geoipupdate) - GeoIP update client code
+- [maxmind/GeoIP2-python](https://github.com/maxmind/GeoIP2-python) - Python code for GeoIP2 webservice client and database reader
 
 <a name="nas"></a>
 
@@ -1631,7 +1648,7 @@
 - [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the OpenGitOps project which are versioned and released together (including the GitOps Principles and Glossary)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io) - NixOS + Niri + Noctalia. Three letters, zero compromise.
-- [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Gesucht and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
+- [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, eBay Kleinanzeigen, and WG-Gesucht and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
 - [libvirt/libvirt](https://github.com/libvirt/libvirt) - Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
@@ -1876,7 +1893,7 @@
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - 
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
 - [markhorn-dev/astro-sphere](https://github.com/markhorn-dev/astro-sphere) - Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog.
 - [nicremo/astro-multilingual-portfolio-template](https://github.com/nicremo/astro-multilingual-portfolio-template) - Modern multilingual portfolio website template built with Astro SSG and Tailwind CSS. Features i18n support, dark/light mode, responsive design, and SEO optimization for developer portfolios.
 - [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) - A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).

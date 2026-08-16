@@ -236,6 +236,7 @@
 - [software](#software)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -246,6 +247,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -279,6 +281,7 @@
 
 ## agent 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
@@ -306,6 +309,7 @@
 
 ## ai 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [sakowicz/actual-ai](https://github.com/sakowicz/actual-ai) - Categorise transactions in Actual Budget using AI.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
@@ -949,6 +953,7 @@
 
 ## chatgpt 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
@@ -1109,7 +1114,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
@@ -1160,7 +1165,7 @@
 
 ## crawler 
 
-- [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Ge
+- [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, eBay Kleinanzeigen, and WG-Gesucht and
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 
 ## cryptography 
@@ -1254,6 +1259,7 @@
 
 ## database 
 
+- [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
 - [salimt/football-datasets](https://github.com/salimt/football-datasets) - Complete football/soccer datalake with 93000+ players from Transfermarkt. Includes player profiles, performance statistics, market values, transfer histories, injury records, national team data, and t
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
@@ -1380,6 +1386,7 @@
 
 ## docker 
 
+- [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [siemens/edgeshark](https://github.com/siemens/edgeshark) - Discover and capture container network traffic from your comfy desktop Wireshark, using a containerized service and a Wireshark plugin.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
@@ -1500,6 +1507,7 @@
 
 ## education 
 
+- [pshenok/datacenter-survival](https://github.com/pshenok/datacenter-survival) - Build and run a datacenter: power chains, heat, cooling, PUE. Sister game of Server Survival — the physical layer of the cloud.
 - [netboxlabs/netbox-learning](https://github.com/netboxlabs/netbox-learning) - Resources, tutorials and demos for NetBox from NetBox Labs
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
@@ -1644,6 +1652,7 @@
 
 ## game 
 
+- [pshenok/datacenter-survival](https://github.com/pshenok/datacenter-survival) - Build and run a datacenter: power chains, heat, cooling, PUE. Sister game of Server Survival — the physical layer of the cloud.
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -1705,6 +1714,8 @@
 
 ## go 
 
+- [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
 - [DropMorePackets/berghain](https://github.com/DropMorePackets/berghain) - A Go and HAProxy-powered bouncer, ensuring that only the coolest browsers get access to the backend party!
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -1864,6 +1875,8 @@
 
 ## hacktoberfest 
 
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [NetAuto-RheinMain/NetAuto-Bootcamp](https://github.com/NetAuto-RheinMain/NetAuto-Bootcamp) - An introduction into the world of Network Automation
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
@@ -2038,6 +2051,7 @@
 
 ## homebrew 
 
+- [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's fish, bash, git, etc config files. good stuff.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
@@ -2158,6 +2172,7 @@
 
 ## java 
 
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
@@ -2278,6 +2293,7 @@
 
 ## kubernetes 
 
+- [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -2439,6 +2455,7 @@
 
 ## llm 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
@@ -2497,7 +2514,7 @@
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
@@ -2521,6 +2538,7 @@
 
 ## macos 
 
+- [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
@@ -2556,7 +2574,7 @@
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
@@ -2575,6 +2593,7 @@
 ## malware 
 
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## markdown 
 
@@ -2790,7 +2809,7 @@
 
 - [manrajgrover/football-cli](https://github.com/manrajgrover/football-cli) - ⚽ Command line interface for Hackers who love football
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
-- [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Ge
+- [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, eBay Kleinanzeigen, and WG-Gesucht and
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
@@ -2904,6 +2923,7 @@
 
 ## openai 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -2945,6 +2965,13 @@
 
 ## others 
 
+- [rockorager/monstar](https://github.com/rockorager/monstar) - wayland terminal based on libghostty. cpu rendered, like foot
+- [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
+- [maxmind/GeoIP2-python](https://github.com/maxmind/GeoIP2-python) - Python code for GeoIP2 webservice client and database reader
+- [maxmind/geoipupdate](https://github.com/maxmind/geoipupdate) - GeoIP update client code
+- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
+- [spujadas/elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
 - [srl-labs/vscode-containerlab](https://github.com/srl-labs/vscode-containerlab) - Containerlab VS Code extension
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
@@ -3062,7 +3089,7 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore) - Nagios Core
 - [pycontribs/python-vagrant](https://github.com/pycontribs/python-vagrant) - Python bindings for interacting with Vagrant virtual machines.
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - 
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [CachyOS/cachyos-niri-noctalia](https://github.com/CachyOS/cachyos-niri-noctalia) - Niri + Noctalia Settings
@@ -3327,7 +3354,7 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP)
 - [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
-- [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter for  Mikrotik RouterOS devices
+- [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter  and CLI GitOps Configurations for Mikrotik RouterOS devices
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell) - A ready to go status bar for Wayland compositors
@@ -3513,6 +3540,7 @@
 ## phishing 
 
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## php 
 
@@ -3595,6 +3623,7 @@
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 
@@ -3658,6 +3687,7 @@
 
 ## python 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [NetAuto-RheinMain/NetAuto-Bootcamp](https://github.com/NetAuto-RheinMain/NetAuto-Bootcamp) - An introduction into the world of Network Automation
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
@@ -3849,6 +3879,7 @@
 
 ## reinforcement-learning 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## rest-api 
@@ -4049,6 +4080,7 @@
 
 ## self-hosted 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -4056,7 +4088,7 @@
 - [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
-- [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Ge
+- [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, eBay Kleinanzeigen, and WG-Gesucht and
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
@@ -4149,7 +4181,7 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -4183,6 +4215,10 @@
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 
+## stable-diffusion 
+
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+
 ## svelte 
 
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
@@ -4193,6 +4229,7 @@
 
 ## swift 
 
+- [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
@@ -4212,6 +4249,7 @@
 
 ## swiftui 
 
+- [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
 - [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app) - Free up your Mac, safely. Clears the cache and junk it piles up on its own. Open source, and everything goes to the Trash, so nothing is ever lost.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
@@ -4300,6 +4338,10 @@
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [geerlingguy/sbc-reviews](https://github.com/geerlingguy/sbc-reviews) - Jeff Geerling's SBC review data - Raspberry Pi, Radxa, Orange Pi, etc.
 
+## text-to-speech 
+
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+
 ## tui 
 
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
@@ -4354,6 +4396,7 @@
 
 ## ui 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 - [homebridge/homebridge-raspbian-image](https://github.com/homebridge/homebridge-raspbian-image) - Official Homebridge Raspberry Pi Image based on Raspberry Pi OS Lite.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.

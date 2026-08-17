@@ -232,6 +232,7 @@
 - [GrakovNe/lissen-android](https://github.com/GrakovNe/lissen-android) - Minimalistic Android client app for Audiobookshelf
 - [FossifyOrg/Documents](https://github.com/FossifyOrg/Documents) - A simple and clean document app that protects your privacy
 - [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile) - Legacy Zulip mobile apps for Android and iOS
+- [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 
 <a name="automation-iac-devops-sre"></a>
 
@@ -1376,7 +1377,7 @@
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [google/bumble](https://github.com/google/bumble) - 
@@ -1648,7 +1649,7 @@
 - [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the OpenGitOps project which are versioned and released together (including the GitOps Principles and Glossary)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io) - NixOS + Niri + Noctalia. Three letters, zero compromise.
-- [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, eBay Kleinanzeigen, and WG-Gesucht and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
+- [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, eBay Kleinanzeigen and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
 - [libvirt/libvirt](https://github.com/libvirt/libvirt) - Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.

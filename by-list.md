@@ -233,6 +233,19 @@
 - [FossifyOrg/Documents](https://github.com/FossifyOrg/Documents) - A simple and clean document app that protects your privacy
 - [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile) - Legacy Zulip mobile apps for Android and iOS
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
+- [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
+- [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
+- [cryptomator/android](https://github.com/cryptomator/android) - Cryptomator for Android
+- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+- [etesync/android](https://github.com/etesync/android) - EteSync - Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars and tasks.
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
+- [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) -  📱The official Wikipedia app for Android!
+- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & local proxying.
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
+- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.
+- [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning.
+- [techlore/plexus](https://github.com/techlore/plexus) - Remove the fear of Android app compatibility on de-Googled devices.
 
 <a name="automation-iac-devops-sre"></a>
 
@@ -568,6 +581,7 @@
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [rockorager/monstar](https://github.com/rockorager/monstar) - wayland terminal based on libghostty. cpu rendered, like foot
+- [ChristianLempa/dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
 
 <a name="git-github"></a>
 

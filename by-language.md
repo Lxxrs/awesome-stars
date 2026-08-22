@@ -264,7 +264,7 @@
 
 - [hassio-addons/app-grocy](https://github.com/hassio-addons/app-grocy) - Grocy - Home Assistant Community Apps
 - [hassio-addons/app-uptime-kuma](https://github.com/hassio-addons/app-uptime-kuma) - Uptime Kuma - Home Assistant Community App
-- [hassio-addons/addon-grafana](https://github.com/hassio-addons/addon-grafana) - Grafana - Home Assistant Community Add-ons
+- [hassio-addons/app-grafana](https://github.com/hassio-addons/app-grafana) - Grafana - Home Assistant Community Apps
 - [OpenVoiceOS/ovos-docker](https://github.com/OpenVoiceOS/ovos-docker) - Open Voice OS container images and docker-compose.yml files for x86_64 and aarch64 CPU architectures.
 - [astral-sh/uv-docker-example](https://github.com/astral-sh/uv-docker-example) - An example of using uv in Docker images
 - [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
@@ -1471,7 +1471,7 @@
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth
 - [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
 - [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [throwaway96/faultmanager-autoroot](https://github.com/throwaway96/faultmanager-autoroot) - Exploit to root webOS 4.0+ TVs and set up Homebrew Channel
 - [throwaway96/dejavuln-autoroot](https://github.com/throwaway96/dejavuln-autoroot) - Exploit to root webOS TVs using DejaVuln and set up Homebrew Channel
 - [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)

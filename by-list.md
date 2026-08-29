@@ -138,7 +138,7 @@
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 
 <a name="android"></a>
 
@@ -1227,6 +1227,7 @@
 - [hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Free Images for EVE-NG and GNS3 containing routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Master the art of networking and improve your skills!, our repository provides a one-stop solution for a comprehensive hands-on experience.
 - [siemens/edgeshark](https://github.com/siemens/edgeshark) - Discover and capture container network traffic from your comfy desktop Wireshark, using a containerized service and a Wireshark plugin.
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
+- [containernetworking/cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
 
 <a name="nix"></a>
 

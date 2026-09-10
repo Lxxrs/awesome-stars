@@ -158,6 +158,7 @@
 
 ## C# # 
 
+- [hack-gpon/MA5671A-Eeprom](https://github.com/hack-gpon/MA5671A-Eeprom) - 
 - [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [lyarenei/jellyfin-plugin-listenbrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) - ListenBrainz plugin for Jellyfin.
@@ -740,7 +741,6 @@
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
-- [FlorianElke/neovim-config](https://github.com/FlorianElke/neovim-config) - 
 - [tjdevries/config.nvim](https://github.com/tjdevries/config.nvim) - my nvim config
 - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
@@ -778,6 +778,7 @@
 
 ## Makefile 
 
+- [hwti/G-010S-A](https://github.com/hwti/G-010S-A) - All about Nokia G-010S-A GPON SFP
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP)
 - [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot(UEFI's DXE replacement) ROM payload to provide a secure, flexible boot environment for laptops, workstations and servers.
@@ -1602,6 +1603,7 @@
 
 ## TypeScript 
 
+- [n-thumann/easybell-carrier-map](https://github.com/n-thumann/easybell-carrier-map) - A map showing the carriers used by Easybell for their VDSL products
 - [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)

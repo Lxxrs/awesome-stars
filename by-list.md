@@ -102,7 +102,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -160,7 +160,7 @@
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
-- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
@@ -339,6 +339,7 @@
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
 - [rabbitmq/cluster-operator](https://github.com/rabbitmq/cluster-operator) - RabbitMQ Cluster Kubernetes Operator
 - [ansible-collections/community.routeros](https://github.com/ansible-collections/community.routeros) - Ansible modules for managing MikroTik RouterOS instances.
+- [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 
 <a name="backups"></a>
 
@@ -969,7 +970,7 @@
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
 - [Moonfin-Client/Smart-TV](https://github.com/Moonfin-Client/Smart-TV) - A premium Jellyfin Client for Tizen and webOS
-- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
+- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - Your Ultimate IPTV & Stream Management Companion
 - [ankenyr/jellyfin-youtube-metadata-plugin](https://github.com/ankenyr/jellyfin-youtube-metadata-plugin) - Youtube Metadata Plugin for Jellyfin
 - [MoazSalem/litefin](https://github.com/MoazSalem/litefin) - Jellyfin Client for Tizen and WebOS.
 - [matt1432/nixos-jellyfin](https://github.com/matt1432/nixos-jellyfin) - A NixOS module that extends the jellyfin service to configure its settings.
@@ -1130,7 +1131,7 @@
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [becarpenter/book6](https://github.com/becarpenter/book6) - A collaborative IPv6 book
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [PeterPawn/YourFritz](https://github.com/PeterPawn/YourFritz) - dynamic package management for AVM routers
@@ -1538,6 +1539,18 @@
 - [YDX-2147483647/best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - 🏆 A ranked list of awesome projects related to Typst, or the charted dark matter in Typst Universe (TCDM). 🌌
 - [lucifer1004/claude-skill-typst](https://github.com/lucifer1004/claude-skill-typst) - Typst skill for agents.
 - [duskmoon314/typst-fontawesome](https://github.com/duskmoon314/typst-fontawesome) - A Typst package for Font Awesome icons through the desktop fonts.
+- [austinyu/fantastic-cv](https://github.com/austinyu/fantastic-cv) - 
+- [stuxf/basic-typst-resume-template](https://github.com/stuxf/basic-typst-resume-template) - A basic resume for typst, designed to work well with ATS systems.
+- [chaoticgoodcomputing/cgc-typst-packages](https://github.com/chaoticgoodcomputing/cgc-typst-packages) - Typst packages created & maintained by Chaotic Good Computing
+- [jskherman/imprecv](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
+- [alpoi/kiresume](https://github.com/alpoi/kiresume) - A clean and customizable resume template using Typst
+- [whliao5am/pro-academic-cv-typst-template](https://github.com/whliao5am/pro-academic-cv-typst-template) - A professional typst template for academic CV
+- [steadyfall/simple-technical-resume-template](https://github.com/steadyfall/simple-technical-resume-template) - A simple technical resume designed to fit within a page and work well with ATS.
+- [Ruchita1010/acorn-resume](https://github.com/Ruchita1010/acorn-resume) - A clean, minimal Typst resume template
+- [joelfischerr/basic-typst-resume-template](https://github.com/joelfischerr/basic-typst-resume-template) - A basic resume with an optional photo for typst, designed to work well with ATS systems.
+- [AbdullahHendy/clickworthy-resume](https://github.com/AbdullahHendy/clickworthy-resume) - A Typst simple, flexible, responsive, ATS-friendly, and click-worthy resume template. Extra cover letter and extendable to a CV.
+- [yunanwg/brilliant-CV](https://github.com/yunanwg/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
+- [jonaspleyer/cv-soft-and-hard](https://github.com/jonaspleyer/cv-soft-and-hard) - CV Template for Typst
 
 <a name="unsorted"></a>
 

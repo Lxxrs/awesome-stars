@@ -279,7 +279,7 @@
 ## Elixir 
 
 - [techlore/plexus](https://github.com/techlore/plexus) - Remove the fear of Android app compatibility on de-Googled devices.
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 
 ## Emacs Lisp 
 
@@ -572,7 +572,7 @@
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
-- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
+- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - Your Ultimate IPTV & Stream Management Companion
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna) - The leaked exploit toolkit for various iOS versions
@@ -710,7 +710,7 @@
 - [binwiederhier/ntfy-android](https://github.com/binwiederhier/ntfy-android) - Android app for ntfy.sh
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
-- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
@@ -1350,7 +1350,7 @@
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
@@ -1603,6 +1603,7 @@
 
 ## TypeScript 
 
+- [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [n-thumann/easybell-carrier-map](https://github.com/n-thumann/easybell-carrier-map) - A map showing the carriers used by Easybell for their VDSL products
 - [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -1651,7 +1652,7 @@
 - [open-noodle/gallery](https://github.com/open-noodle/gallery) - High performance self-hosted photo and video management solution.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
@@ -1760,6 +1761,18 @@
 
 ## Typst 
 
+- [jonaspleyer/cv-soft-and-hard](https://github.com/jonaspleyer/cv-soft-and-hard) - CV Template for Typst
+- [yunanwg/brilliant-CV](https://github.com/yunanwg/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
+- [AbdullahHendy/clickworthy-resume](https://github.com/AbdullahHendy/clickworthy-resume) - A Typst simple, flexible, responsive, ATS-friendly, and click-worthy resume template. Extra cover letter and extendable to a CV.
+- [joelfischerr/basic-typst-resume-template](https://github.com/joelfischerr/basic-typst-resume-template) - A basic resume with an optional photo for typst, designed to work well with ATS systems.
+- [Ruchita1010/acorn-resume](https://github.com/Ruchita1010/acorn-resume) - A clean, minimal Typst resume template
+- [steadyfall/simple-technical-resume-template](https://github.com/steadyfall/simple-technical-resume-template) - A simple technical resume designed to fit within a page and work well with ATS.
+- [whliao5am/pro-academic-cv-typst-template](https://github.com/whliao5am/pro-academic-cv-typst-template) - A professional typst template for academic CV
+- [alpoi/kiresume](https://github.com/alpoi/kiresume) - A clean and customizable resume template using Typst
+- [jskherman/imprecv](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
+- [chaoticgoodcomputing/cgc-typst-packages](https://github.com/chaoticgoodcomputing/cgc-typst-packages) - Typst packages created & maintained by Chaotic Good Computing
+- [stuxf/basic-typst-resume-template](https://github.com/stuxf/basic-typst-resume-template) - A basic resume for typst, designed to work well with ATS systems.
+- [austinyu/fantastic-cv](https://github.com/austinyu/fantastic-cv) - 
 - [typst-community/linguify](https://github.com/typst-community/linguify) - typst package to load strings for different languages easily.
 - [duskmoon314/typst-fontawesome](https://github.com/duskmoon314/typst-fontawesome) - A Typst package for Font Awesome icons through the desktop fonts.
 - [YDX-2147483647/best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - 🏆 A ranked list of awesome projects related to Typst, or the charted dark matter in Typst Universe (TCDM). 🌌

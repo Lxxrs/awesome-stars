@@ -3039,6 +3039,7 @@
 
 ## others 
 
+- [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [jonaspleyer/cv-soft-and-hard](https://github.com/jonaspleyer/cv-soft-and-hard) - CV Template for Typst
 - [yunanwg/brilliant-CV](https://github.com/yunanwg/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more

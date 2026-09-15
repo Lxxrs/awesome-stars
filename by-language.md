@@ -182,6 +182,7 @@
 
 ## C++ 
 
+- [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
@@ -283,6 +284,7 @@
 
 ## Emacs Lisp 
 
+- [SUSE/doc-sle](https://github.com/SUSE/doc-sle) - Official SUSE Linux Enterprise Documentation [Everyone, please use feature/ branches, create PRs and ensure CI runs successfully rather than just pushing to main!]
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 
 ## Fluent 
@@ -291,6 +293,7 @@
 
 ## Go 
 
+- [rancher/cli](https://github.com/rancher/cli) - Rancher CLI
 - [opensearch-project/opensearch-k8s-operator](https://github.com/opensearch-project/opensearch-k8s-operator) - OpenSearch Kubernetes Operator
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [rabbitmq/cluster-operator](https://github.com/rabbitmq/cluster-operator) - RabbitMQ Cluster Kubernetes Operator
@@ -778,6 +781,7 @@
 
 ## Makefile 
 
+- [SUSE/doc-sleha](https://github.com/SUSE/doc-sleha) - Official SUSE Linux Enterprise High Availability documentation
 - [hwti/G-010S-A](https://github.com/hwti/G-010S-A) - All about Nokia G-010S-A GPON SFP
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [jmapio/jmap](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification (JMAP)
@@ -1075,6 +1079,7 @@
 
 ## Python 
 
+- [SUSE/suse-best-practices](https://github.com/SUSE/suse-best-practices) - SUSE Best Practices documentation series
 - [ansible-collections/community.routeros](https://github.com/ansible-collections/community.routeros) - Ansible modules for managing MikroTik RouterOS instances.
 - [cactus-compute/needle](https://github.com/cactus-compute/needle) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
@@ -1157,7 +1162,7 @@
 - [zhuozhiyongde/gaze-stars](https://github.com/zhuozhiyongde/gaze-stars) - A GitHub Action to auto-generate a categorized README of your starred repositories with a Table of Contents.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, Google, ZipRecruiter & more
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [kyuz0/amd-strix-halo-toolboxes](https://github.com/kyuz0/amd-strix-halo-toolboxes) - 
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -1429,6 +1434,8 @@
 
 ## SCSS 
 
+- [rancher/docs](https://github.com/rancher/docs) - Documentation for Rancher products (for 2.0/new site)
+- [rancher/rancher-product-docs](https://github.com/rancher/rancher-product-docs) - 
 - [opensearch-project/documentation-website](https://github.com/opensearch-project/documentation-website) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [catppuccin/logseq](https://github.com/catppuccin/logseq) - 🦫 Soothing pastel theme for Logseq
@@ -1604,6 +1611,7 @@
 
 ## TypeScript 
 
+- [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [n-thumann/easybell-carrier-map](https://github.com/n-thumann/easybell-carrier-map) - A map showing the carriers used by Easybell for their VDSL products
 - [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.

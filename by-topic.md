@@ -3044,6 +3044,7 @@
 
 ## others 
 
+- [truenas/truenas-proxmox-plugin](https://github.com/truenas/truenas-proxmox-plugin) - For providing seamless block storage to PVE
 - [rancher/docs](https://github.com/rancher/docs) - Documentation for Rancher products (for 2.0/new site)
 - [rancher/rancher-product-docs](https://github.com/rancher/rancher-product-docs) - 
 - [rancher/cli](https://github.com/rancher/cli) - Rancher CLI
@@ -3233,7 +3234,6 @@
 - [dropbox/dbx-career-framework](https://github.com/dropbox/dbx-career-framework) - 
 - [OHF-Voice/linux-voice-assistant](https://github.com/OHF-Voice/linux-voice-assistant) - Voice satellite for Home Assistant using the ESPHome protocol
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing HV exploits to run a custom bootloader
 - [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [pyinfra-dev/pyinfra-examples](https://github.com/pyinfra-dev/pyinfra-examples) - A set of documented and tested pyinfra deploys.

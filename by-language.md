@@ -511,6 +511,7 @@
 
 ## Java 
 
+- [batfish/batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evo
 - [opensearch-project/opensearch-prometheus-exporter](https://github.com/opensearch-project/opensearch-prometheus-exporter) - Prometheus exporter plugin for OpenSearch & OpenSearch Mixin
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
@@ -1104,7 +1105,7 @@
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [netboxlabs/netbox-learning](https://github.com/netboxlabs/netbox-learning) - Resources, tutorials and demos for NetBox from NetBox Labs
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
 - [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense) - Ansible Collection to manage OPNsense firewalls using their API
 - [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
@@ -1214,7 +1215,7 @@
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [marvinvr/truenas-auto-update](https://github.com/marvinvr/truenas-auto-update) - Automatically update your TrueNAS apps on a schedule.
 - [arensb/ansible-truenas](https://github.com/arensb/ansible-truenas) - Ansible collection to manage TrueNAS
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
@@ -1407,6 +1408,7 @@
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [futo-org/fcast](https://github.com/futo-org/fcast) - FCast Issue Tracker and Source Mirror
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [mollyim/mollysocket](https://github.com/mollyim/mollysocket) - MollySocket allows getting Signal notifications via UnifiedPush.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
@@ -1743,7 +1745,6 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Xh4H/WhatsApp-device-activity-tracker](https://github.com/Xh4H/WhatsApp-device-activity-tracker) - 
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️

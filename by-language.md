@@ -174,7 +174,7 @@
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [builtbybel/FluentTweaker](https://github.com/builtbybel/FluentTweaker) - 
-- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
+- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Flyoobe is the Control Panel for setting up Windows
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
@@ -293,6 +293,9 @@
 
 ## Go 
 
+- [pr0ton11/cert-manager-desec-webhook](https://github.com/pr0ton11/cert-manager-desec-webhook) - An independently maintained deSEC DNS validation webhook for cert-manager
+- [timofurrer/terraform-provider-desec](https://github.com/timofurrer/terraform-provider-desec) - Terraform / OpenTofu Provider for deSEC (desec.io)
+- [Valodim/terraform-provider-desec](https://github.com/Valodim/terraform-provider-desec) - A terraform provider for desec.io
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -404,7 +407,7 @@
 - [AthennaMind/opnsense-exporter](https://github.com/AthennaMind/opnsense-exporter) - OPNsense Exporter for Prometheus
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [lovelaze/nebula-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi-hole v6.x instances.
@@ -543,6 +546,7 @@
 
 ## JavaScript 
 
+- [andywhitaker/awesome-nokia](https://github.com/andywhitaker/awesome-nokia) - A curated list of awesome Nokia projects and useful resources
 - [opensearch-project/observability-stack](https://github.com/opensearch-project/observability-stack) - Opensearch Observability Stack
 - [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
 - [KernelChief/almalinux-creative-installer](https://github.com/KernelChief/almalinux-creative-installer) - One-click installer for creative and Media & Entertainment applications on AlmaLinux (Blender, GIMP, Krita, DaVinci Resolve and more).
@@ -858,6 +862,7 @@
 
 ## Others 
 
+- [oskar456/cds-updates](https://github.com/oskar456/cds-updates) - Info about CDS update support
 - [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) - Azure Pipelines YAML examples, templates, and community interaction
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
@@ -1090,6 +1095,7 @@
 
 ## Python 
 
+- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [rescuezilla/rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
 - [SUSE/suse-best-practices](https://github.com/SUSE/suse-best-practices) - SUSE Best Practices documentation series
 - [ansible-collections/community.routeros](https://github.com/ansible-collections/community.routeros) - Ansible modules for managing MikroTik RouterOS instances.
@@ -1458,6 +1464,8 @@
 
 ## Shell 
 
+- [antimony-team/antimony](https://github.com/antimony-team/antimony) - A visual approach to designing and managing Containerlab networks.
+- [srl-labs/wsl-containerlab](https://github.com/srl-labs/wsl-containerlab) - A ready-to-use WSL distribution that makes network labbing on Windows a breeze
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [truenas/truenas-proxmox-plugin](https://github.com/truenas/truenas-proxmox-plugin) - For providing seamless block storage to PVE
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
@@ -1628,6 +1636,7 @@
 
 ## TypeScript 
 
+- [srl-labs/containerlab-app](https://github.com/srl-labs/containerlab-app) - 
 - [cross-platform-actions/action](https://github.com/cross-platform-actions/action) - Cross-platform GitHub action
 - [rancher/dashboard](https://github.com/rancher/dashboard) - The Rancher UI
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK

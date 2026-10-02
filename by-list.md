@@ -510,6 +510,7 @@
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [iongion/container-desktop](https://github.com/iongion/container-desktop) - Podman desktop companion
+- [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.
 
 <a name="dotfiles-cli"></a>
 
@@ -929,7 +930,7 @@
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
 - [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [macports/macports-base](https://github.com/macports/macports-base) - The MacPorts command-line client

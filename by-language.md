@@ -459,6 +459,7 @@
 
 ## Go Template 
 
+- [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
 - [mollyim/flatline-platform](https://github.com/mollyim/flatline-platform) - Flatline is a server prototype to which Signal-compatible clients can connect.
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 
@@ -484,7 +485,6 @@
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
-- [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
@@ -594,7 +594,6 @@
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
-- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - Your Ultimate IPTV & Stream Management Companion
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna) - The leaked exploit toolkit for various iOS versions
@@ -1228,6 +1227,7 @@
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
+- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - Your Ultimate IPTV & Stream Management Companion
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) - Prometheus exporter for Fritz!Box home routers
 - [kbr/fritzconnection](https://github.com/kbr/fritzconnection) - Python-Tool to communicate with the AVM Fritz!Box by the TR-064 protocol and the AHA-HTTP-Interface
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
@@ -1389,7 +1389,7 @@
 - [typst/citationberg](https://github.com/typst/citationberg) - A library for parsing CSL styles.
 - [typst/biblatex](https://github.com/typst/biblatex) - A Rust crate for parsing and writing BibTeX and BibLaTeX files.
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - A 5-20x faster experimental Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 100x faster Homebrew alternative
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
@@ -1480,7 +1480,7 @@
 - [opsi-org/opsi-docker](https://github.com/opsi-org/opsi-docker) - Run opsi on docker
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
-- [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs) - This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.
+- [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs) - Public repo for the Azure DevOps content rendered at https://learn.microsoft.com/azure/devops/
 - [ChristianLempa/dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [spujadas/elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
@@ -1587,12 +1587,13 @@
 
 ## Swift 
 
+- [FMDigitech/WireTunnels](https://github.com/FMDigitech/WireTunnels) - A native macOS menu bar app to manage multiple WireGuard tunnels at once — with auto-connect, live metrics, config editor, templates, and no terminal required.
 - [tdeverx/contained-app](https://github.com/tdeverx/contained-app) - A native macOS app for Apple's Container CLI
 - [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - The native UI for Apple Containers and (o)MLX sandboxes, written in swift as a replacement for docker desktop
 - [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple's platform
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
-- [perezjuanj/OpenCircuit](https://github.com/perezjuanj/OpenCircuit) - Local-first health data for the RingConn Gen 2/3 smart ring — read all metrics over BLE and write them to Apple Health. Inspired by openwhoop.
+- [perezjuanj/OpenCircuit](https://github.com/perezjuanj/OpenCircuit) - Local-first health data for multiple wearables. Read all metrics over BLE and write them to Apple Health. Inspired by openwhoop.
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
 - [apphane-dev/nehir](https://github.com/apphane-dev/nehir) - Nehir — a tiling window manager for macOS

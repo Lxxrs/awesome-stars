@@ -294,6 +294,12 @@
 
 ## Go 
 
+- [rancher/fleet](https://github.com/rancher/fleet) - Deploy workloads from Git to large fleets of Kubernetes clusters
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
+- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [pr0ton11/cert-manager-desec-webhook](https://github.com/pr0ton11/cert-manager-desec-webhook) - An independently maintained deSEC DNS validation webhook for cert-manager
 - [timofurrer/terraform-provider-desec](https://github.com/timofurrer/terraform-provider-desec) - Terraform / OpenTofu Provider for deSEC (desec.io)
@@ -397,7 +403,6 @@
 - [ansoni/goquarium](https://github.com/ansoni/goquarium) - Asciiquarium implementation in Go
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -655,6 +660,7 @@
 
 ## Jupyter Notebook 
 
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes Community Documentation
 - [devinpleuler/analytics-handbook](https://github.com/devinpleuler/analytics-handbook) - Getting started with soccer analytics
 - [eddwebster/football_analytics](https://github.com/eddwebster/football_analytics) - 📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community
 - [google-gemma/cookbook](https://github.com/google-gemma/cookbook) - A collection of guides and examples for the Gemma open models from Google.
@@ -729,7 +735,6 @@
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [Tommy-Geenexus/exif-eraser](https://github.com/Tommy-Geenexus/exif-eraser) - Permissionless image metadata erasing application for Android
 - [binwiederhier/ntfy-android](https://github.com/binwiederhier/ntfy-android) - Android app for ntfy.sh
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
@@ -869,6 +874,7 @@
 
 ## Others 
 
+- [kubernetes/kubernetes-template-project](https://github.com/kubernetes/kubernetes-template-project) - A template for starting new projects on the github.com/kubernetes organization
 - [oskar456/cds-updates](https://github.com/oskar456/cds-updates) - Info about CDS update support
 - [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) - Azure Pipelines YAML examples, templates, and community interaction
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - 
@@ -992,6 +998,7 @@
 - [futo-org/futo-keyboard-layouts](https://github.com/futo-org/futo-keyboard-layouts) - Layouts for FUTO Keyboard
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [mazay/truenas-grafana](https://github.com/mazay/truenas-grafana) - 
 - [UGREEN-NASync/community-guide](https://github.com/UGREEN-NASync/community-guide) - Ugreen NASync Community guide
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
@@ -1389,7 +1396,7 @@
 - [typst/citationberg](https://github.com/typst/citationberg) - A library for parsing CSL styles.
 - [typst/biblatex](https://github.com/typst/biblatex) - A Rust crate for parsing and writing BibTeX and BibLaTeX files.
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 100x faster Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 100x* faster Homebrew alternative
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
@@ -1472,6 +1479,8 @@
 
 ## Shell 
 
+- [rancher/fleet-examples](https://github.com/rancher/fleet-examples) - Fleet usage examples
+- [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [antimony-team/antimony](https://github.com/antimony-team/antimony) - A visual approach to designing and managing Containerlab networks.
 - [srl-labs/wsl-containerlab](https://github.com/srl-labs/wsl-containerlab) - A ready-to-use WSL distribution that makes network labbing on Windows a breeze
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes

@@ -55,7 +55,7 @@
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -978,6 +978,8 @@
 - [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - The native UI for Apple Containers and (o)MLX sandboxes, written in swift as a replacement for docker desktop
 - [tdeverx/contained-app](https://github.com/tdeverx/contained-app) - A native macOS app for Apple's Container CLI
 - [FMDigitech/WireTunnels](https://github.com/FMDigitech/WireTunnels) - A native macOS menu bar app to manage multiple WireGuard tunnels at once — with auto-connect, live metrics, config editor, templates, and no terminal required.
+- [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
+- [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch) - A native macOS file browser with fast fuzzy filename search, powered by fsearch.
 
 <a name="mediaserver-smart-tv"></a>
 
@@ -1734,6 +1736,8 @@
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (available on all major platforms)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- [Euro-Office/desktop-apps](https://github.com/Euro-Office/desktop-apps) - 
 
 <a name="vim-neovim"></a>
 

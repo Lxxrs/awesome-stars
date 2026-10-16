@@ -992,7 +992,7 @@
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [asmvik/skhd](https://github.com/asmvik/skhd) -  Simple hotkey daemon for macOS
@@ -1500,7 +1500,6 @@
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥
 - [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Awesome Security lists for SOC/CERT/CTI
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev

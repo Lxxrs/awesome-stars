@@ -13,6 +13,7 @@
 - [👨🏼‍💻 Certifications (K8s, LPIC, CCNA)](#certifications-k8s-lpic-ccna)
 - [☁️ Cloud, DevOps &amp; IaC](#cloud-devops-iac)
 - [👾 Dotfiles &amp; CLI](#dotfiles-cli)
+- [Gaming](#gaming)
 - [🔄 Git &amp; GitHub](#git-github)
 - [🍺 Homebrew (3DS, Steam-Deck, etc.)](#homebrew-3ds-steam-deck-etc)
 - [🔥 Homelab Infra (NAS, FW, SW, etc)](#homelab-infra-nas-fw-sw-etc)
@@ -519,6 +520,17 @@
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
+
+<a name="gaming"></a>
+
+## Gaming
+
+- [NexusForever/NexusForever](https://github.com/NexusForever/NexusForever) - An emulator for the defunct MMORPG WildStar which supports build 16042 (Final Patch)
+- [SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) - GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) -  :video_game: :game_die: A wonderful list of Game Development resources.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Dev repo for @zig-gamedev libs and sample applications
 
 <a name="git-github"></a>
 
@@ -1390,6 +1402,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+- [sruf79/halo-spaces](https://github.com/sruf79/halo-spaces) - A calm, tidy design for Thunderbird on macOS – inspired by Apple Mail, with colourful spaces.
 
 <a name="privacy"></a>
 
@@ -1507,7 +1520,7 @@
 - [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Awesome Security lists for SOC/CERT/CTI
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code

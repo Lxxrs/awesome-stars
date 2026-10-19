@@ -184,6 +184,7 @@
 
 ## C++ 
 
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [Euro-Office/desktop-apps](https://github.com/Euro-Office/desktop-apps) - 
@@ -433,7 +434,7 @@
 - [AthennaMind/opnsense-exporter](https://github.com/AthennaMind/opnsense-exporter) - OPNsense Exporter for Prometheus
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
@@ -552,6 +553,7 @@
 
 ## Java 
 
+- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
 - [batfish/batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evo
 - [opensearch-project/opensearch-prometheus-exporter](https://github.com/opensearch-project/opensearch-prometheus-exporter) - Prometheus exporter plugin for OpenSearch & OpenSearch Mixin
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
@@ -861,6 +863,8 @@
 
 ## Nix 
 
+- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
+- [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [nix-community/nixbsd](https://github.com/nix-community/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel [maintainer=@artemist,@rhelmot]
 - [denog/routing-guide](https://github.com/denog/routing-guide) - Guide for routing/bgp best practices
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
@@ -936,7 +940,7 @@
 - [openfootball/awesome-football](https://github.com/openfootball/awesome-football) - A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
 - [LeoKlaus/plappa](https://github.com/LeoKlaus/plappa) - An Audiobook client for Jellyfin and AudioBookShelf, written in Swift/SwiftUI.
 - [Locatarr/locatarr.github.io](https://github.com/Locatarr/locatarr.github.io) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
-- [libre-fm/libre-fm](https://github.com/libre-fm/libre-fm) - The Hacienda must be built
+- [libre-fm/libre-fm](https://github.com/libre-fm/libre-fm) - Official Libre.fm project repo
 - [SideloadlyiOS/Sideloadly-Download](https://github.com/SideloadlyiOS/Sideloadly-Download) - Sideloadly - iOS, Apple Silicon & TV Sideloading
 - [netboxlabs/netbox-best-practices](https://github.com/netboxlabs/netbox-best-practices) - Best practices for NetBox API integrations, available for multiple AI coding assistants and human readers.
 - [netbox-community/awesome-netbox](https://github.com/netbox-community/awesome-netbox) - A curated list of awesome NetBox resources
@@ -1150,6 +1154,8 @@
 
 ## Python 
 
+- [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.
+- [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent.
 - [rootshell-labs/octodns-desec](https://github.com/rootshell-labs/octodns-desec) - deSEC.io provider for octoDNS
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
@@ -1410,7 +1416,7 @@
 
 ## Rust 
 
-- [SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) - GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
@@ -1715,6 +1721,7 @@
 
 ## TypeScript 
 
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.

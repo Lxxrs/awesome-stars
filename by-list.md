@@ -261,6 +261,9 @@
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning.
 - [techlore/plexus](https://github.com/techlore/plexus) - Remove the fear of Android app compatibility on de-Googled devices.
 - [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
+- [dominikmuellr/trudido](https://github.com/dominikmuellr/trudido) - Simple tasks. Secure notes. Made in Europe.
+- [opencloud-eu/android](https://github.com/opencloud-eu/android) - 🤖
+- [music-assistant/mobile-app](https://github.com/music-assistant/mobile-app) - The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this project aims to provide a unified codebase for seamless music management across multiple platforms.
 
 <a name="backups"></a>
 
@@ -290,6 +293,10 @@
 - [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
 - [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp) - Automated iOS Backup Robot
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
+- [amitsaha/gitbackup](https://github.com/amitsaha/gitbackup) - Tool to backup your Bitbucket, GitHub, GitLab and Forgejo repositories
+- [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment.
+- [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
+- [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 
 <a name="browser"></a>
 
@@ -340,6 +347,8 @@
 - [CiscoLearning/ccna-auto-prep](https://github.com/CiscoLearning/ccna-auto-prep) - 
 - [ksemaev/lpic_1-101](https://github.com/ksemaev/lpic_1-101) - Studying Linux by LPI-1 exam 101 matherials
 - [jadijadi/lpic1book](https://github.com/jadijadi/lpic1book) - 
+- [alijahnas/CKA-practice-exercises](https://github.com/alijahnas/CKA-practice-exercises) - This is a guide for passing the CNCF Certified Kubernetes Administrator (CKA) with practice exercises. Good luck!
+- [cncf/curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
 
 <a name="cloud-devops-iac"></a>
 
@@ -442,6 +451,9 @@
 - [mister0/How-to-prepare-for-google-interview-SWE-SRE](https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE) - This repository includes resources which are more than sufficient to prepare for google interview if you are applying for a software engineer position or a site reliability engineer position
 - [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
 - [floci-io/floci-gcp](https://github.com/floci-io/floci-gcp) - Light, fluffy, and always free - GCP Local Emulator
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
+- [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
+- [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 
 <a name="dotfiles-cli"></a>
 
@@ -527,17 +539,20 @@
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
 <a name="gaming"></a>
 
 ## Gaming
 
 - [NexusForever/NexusForever](https://github.com/NexusForever/NexusForever) - An emulator for the defunct MMORPG WildStar which supports build 16042 (Final Patch)
+- [SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) - GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) -  :video_game: :game_die: A wonderful list of Game Development resources.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Dev repo for @zig-gamedev libs and sample applications
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 
 <a name="git-github"></a>
 
@@ -564,7 +579,6 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
-- [catppuccin/web-file-explorer-icons](https://github.com/catppuccin/web-file-explorer-icons) - 📂 Soothing pastel icons for GitHub, Gitlab, Gitea, Forgejo and more!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [zhuozhiyongde/gaze-stars](https://github.com/zhuozhiyongde/gaze-stars) - A GitHub Action to auto-generate a categorized README of your starred repositories with a Table of Contents.
@@ -582,6 +596,11 @@
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [cross-platform-actions/action](https://github.com/cross-platform-actions/action) - Cross-platform GitHub action
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [amitsaha/gitbackup](https://github.com/amitsaha/gitbackup) - Tool to backup your Bitbucket, GitHub, GitLab and Forgejo repositories
+- [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment.
+- [ccollier86/forgejo-coolify-bridge](https://github.com/ccollier86/forgejo-coolify-bridge) - Use Forgejo with Coolify just like GitHub! Native integration for browsing repos, automatic webhooks, and push-to-deploy
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 
 <a name="homebrew-3ds-steam-deck-etc"></a>
 
@@ -671,6 +690,7 @@
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
+- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
 
 <a name="homelab-services"></a>
 
@@ -748,6 +768,16 @@
 - [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps) - Collection of selfhosted apps with docker only ! Traefik, Bitwarden, Wireguard with Pihole, Synapse with Elements, etc. 
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
+- [SimpleHomelab/Deployrr](https://github.com/SimpleHomelab/Deployrr) - Deployrr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and what it can/cannot do.
+- [timothystewart6/paperless-stack](https://github.com/timothystewart6/paperless-stack) - Docker Compose stack for running Paperless-ngx with optional local AI capabilities.
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
+- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
+- [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+- [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 
 <a name="iam-certs-proxy-vpn"></a>
 
@@ -861,6 +891,9 @@
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS/visionOS）
 - [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+- [music-assistant/mobile-app](https://github.com/music-assistant/mobile-app) - The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this project aims to provide a unified codebase for seamless music management across multiple platforms.
+- [ruddarr/app](https://github.com/ruddarr/app) - A native iOS companion app for Radarr and Sonarr instances.
+- [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents
 
 <a name="k8s-docker-containers"></a>
 
@@ -917,8 +950,6 @@
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
-- [alijahnas/CKA-practice-exercises](https://github.com/alijahnas/CKA-practice-exercises) - This is a guide for passing the CNCF Certified Kubernetes Administrator (CKA) with practice exercises. Good luck!
-- [cncf/curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [opensearch-project/opensearch-k8s-operator](https://github.com/opensearch-project/opensearch-k8s-operator) - OpenSearch Kubernetes Operator
@@ -1001,7 +1032,6 @@
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [catppuccin/limine](https://github.com/catppuccin/limine) - 🖥️ Soothing pastel theme for Limine
 - [catppuccin/kde](https://github.com/catppuccin/kde) - 🌻 Soothing pastel theme for KDE
-- [hkdb/aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E-Mail Client
 - [CachyOS/cachyos-niri-noctalia](https://github.com/CachyOS/cachyos-niri-noctalia) - Niri + Noctalia Settings
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
@@ -1079,6 +1109,7 @@
 - [FMDigitech/WireTunnels](https://github.com/FMDigitech/WireTunnels) - A native macOS menu bar app to manage multiple WireGuard tunnels at once — with auto-connect, live metrics, config editor, templates, and no terminal required.
 - [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
 - [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch) - A native macOS file browser with fast fuzzy filename search, powered by fsearch.
+- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 
 <a name="mediaserver-smart-tv"></a>
 
@@ -1179,8 +1210,27 @@
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-- [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) - 
+- [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) - Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.
 - [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
+- [Sportarr/Sportarr](https://github.com/Sportarr/Sportarr) - Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr and Radarr
+- [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
+- [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
+- [ruddarr/app](https://github.com/ruddarr/app) - A native iOS companion app for Radarr and Sonarr instances.
+- [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
+- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+- [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
+- [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
+- [SimpleHomelab/Deployrr](https://github.com/SimpleHomelab/Deployrr) - Deployrr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and what it can/cannot do.
+- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
+- [Nezreka/SoulSync](https://github.com/Nezreka/SoulSync) - Intelligent Music & Video Automation Platform
+- [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+- [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
+- [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 
 <a name="network-automation"></a>
 
@@ -1275,6 +1325,7 @@
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [ytti/oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.
 
 <a name="nix"></a>
 
@@ -1317,6 +1368,7 @@
 - [nix-community/nixbsd](https://github.com/nix-community/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel [maintainer=@artemist,@rhelmot]
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
+- [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
 
 <a name="observability"></a>
 
@@ -1375,6 +1427,8 @@
 - [opensearch-project/opensearch-prometheus-exporter](https://github.com/opensearch-project/opensearch-prometheus-exporter) - Prometheus exporter plugin for OpenSearch & OpenSearch Mixin
 - [opensearch-project/observability-stack](https://github.com/opensearch-project/observability-stack) - Opensearch Observability Stack
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
+- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 
 <a name="organization-productivity-docs"></a>
 
@@ -1433,6 +1487,8 @@
 - [sruf79/halo-spaces](https://github.com/sruf79/halo-spaces) - A calm, tidy design for Thunderbird on macOS – inspired by Apple Mail, with colourful spaces.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+- [benbalter/book-kit](https://github.com/benbalter/book-kit) - Build and quality tooling for Markdown books: EPUB 3, Kindle, print PDF and PDF/X-1a, HTML, and DOCX from one source.
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 
 <a name="privacy"></a>
 
@@ -1568,6 +1624,8 @@
 - [thinkst/canarytokens-docker](https://github.com/thinkst/canarytokens-docker) - Docker configuration to quickly setup your own Canarytokens.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.
+- [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!
 
 <a name="smart-home"></a>
 
@@ -1802,6 +1860,15 @@
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [rage/secret-project-331](https://github.com/rage/secret-project-331) - 
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
+- [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
+- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) -  :books: Find your next book to read!
+- [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
+- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
+- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
+- [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 
 <a name="vim-neovim"></a>
 
@@ -2028,6 +2095,7 @@
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [withastro/prettier-plugin-astro](https://github.com/withastro/prettier-plugin-astro) - Prettier plugin for Astro
 - [DropMorePackets/berghain](https://github.com/DropMorePackets/berghain) - A Go and HAProxy-powered bouncer, ensuring that only the coolest browsers get access to the backend party!
+- [ccollier86/forgejo-coolify-bridge](https://github.com/ccollier86/forgejo-coolify-bridge) - Use Forgejo with Coolify just like GitHub! Native integration for browsing repos, automatic webhooks, and push-to-deploy
 
 <a name="windows"></a>
 

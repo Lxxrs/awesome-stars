@@ -160,6 +160,14 @@
 
 ## C# # 
 
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
+- [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
+- [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
+- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr and Radarr
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+- [Sportarr/Sportarr](https://github.com/Sportarr/Sportarr) - Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.
 - [NexusForever/NexusForever](https://github.com/NexusForever/NexusForever) - An emulator for the defunct MMORPG WildStar which supports build 16042 (Final Patch)
 - [hack-gpon/MA5671A-Eeprom](https://github.com/hack-gpon/MA5671A-Eeprom) - 
 - [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
@@ -228,7 +236,6 @@
 
 ## CSS 
 
-- [sruf79/halo-spaces](https://github.com/sruf79/halo-spaces) - A calm, tidy design for Thunderbird on macOS – inspired by Apple Mail, with colourful spaces.
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [macports/macports-guide](https://github.com/macports/macports-guide) - A guide for MacPorts users and developers
@@ -263,6 +270,7 @@
 
 ## Dart 
 
+- [dominikmuellr/trudido](https://github.com/dominikmuellr/trudido) - Simple tasks. Secure notes. Made in Europe.
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -275,6 +283,11 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-calibre](https://github.com/linuxserver/docker-calibre) - 
+- [linuxserver/docker-jellyfin](https://github.com/linuxserver/docker-jellyfin) - 
+- [linuxserver/docker-radarr](https://github.com/linuxserver/docker-radarr) - 
+- [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) - 
+- [linuxserver/docker-calibre-web](https://github.com/linuxserver/docker-calibre-web) - 
 - [thinkst/canarytokens-docker](https://github.com/thinkst/canarytokens-docker) - Docker configuration to quickly setup your own Canarytokens.
 - [hassio-addons/app-grocy](https://github.com/hassio-addons/app-grocy) - Grocy - Home Assistant Community Apps
 - [hassio-addons/app-uptime-kuma](https://github.com/hassio-addons/app-uptime-kuma) - Uptime Kuma - Home Assistant Community App
@@ -300,6 +313,10 @@
 
 ## Go 
 
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
+- [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
+- [amitsaha/gitbackup](https://github.com/amitsaha/gitbackup) - Tool to backup your Bitbucket, GitHub, GitLab and Forgejo repositories
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
@@ -379,12 +396,11 @@
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
-- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - smart charging ☀️🚘
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [hkdb/aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E-Mail Client
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
@@ -511,10 +527,11 @@
 
 ## HTML 
 
+- [fjaeckel/seriesoftubes](https://github.com/fjaeckel/seriesoftubes) - 
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA) - Useful notes for the KCNA - Kubernetes and Cloud Native Associate
 - [hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Free Images for EVE-NG and GNS3 containing routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Master the art of networking and improve your skill
-- [gnu-gnu/network-fundamentals-lab](https://github.com/gnu-gnu/network-fundamentals-lab) - Hands-on network troubleshooting labs — break, observe, and fix core TCP/IP concepts using containerlab
 - [srl-labs/learn-srlinux](https://github.com/srl-labs/learn-srlinux) - Documentation As Code for Learn SR Linux
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [viticci/remctl](https://github.com/viticci/remctl) - An Apple Reminders CLI for power users and AI agents. RemCTL supports all the latest Reminders features such as sections, subtasks, tags, rich links, groceries lists, templates, smart lists, and image
@@ -558,6 +575,7 @@
 ## Java 
 
 - [floci-io/floci-gcp](https://github.com/floci-io/floci-gcp) - Light, fluffy, and always free - GCP Local Emulator
+- [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) - Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
 - [batfish/batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evo
@@ -585,9 +603,13 @@
 
 ## JavaScript 
 
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
+- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
+- [ccollier86/forgejo-coolify-bridge](https://github.com/ccollier86/forgejo-coolify-bridge) - Use Forgejo with Coolify just like GitHub! Native integration for browsing repos, automatic webhooks, and push-to-deploy
+- [benbalter/book-kit](https://github.com/benbalter/book-kit) - Build and quality tooling for Markdown books: EPUB 3, Kindle, print PDF and PDF/X-1a, HTML, and DOCX from one source.
 - [kubernetes-hy/material-example](https://github.com/kubernetes-hy/material-example) - This repository has all of the example applications for https://devopswithkubernetes.com
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) - 
 - [jadijadi/lpic1book](https://github.com/jadijadi/lpic1book) - 
 - [bmuschko/ckad-study-guide](https://github.com/bmuschko/ckad-study-guide) - Code example from the book "Certified Kubernetes Application Developer (CKAD) Study Guide" published by O'Reilly Media.
 - [bmuschko/ckad-crash-course](https://github.com/bmuschko/ckad-crash-course) - In-depth and hands-on practice for acing the exam.
@@ -715,6 +737,8 @@
 
 ## Kotlin 
 
+- [music-assistant/mobile-app](https://github.com/music-assistant/mobile-app) - The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this pro
+- [opencloud-eu/android](https://github.com/opencloud-eu/android) - 🤖
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [wgtunnel/android](https://github.com/wgtunnel/android) - An advanced, open-source client for WireGuard and AmneziaWG on Android.
@@ -788,6 +812,7 @@
 
 ## Lua 
 
+- [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices
 - [ThePrimeagen/99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
@@ -851,6 +876,8 @@
 
 ## Markdown 
 
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [siemens/edgeshark](https://github.com/siemens/edgeshark) - Discover and capture container network traffic from your comfy desktop Wireshark, using a containerized service and a Wireshark plugin.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
@@ -871,6 +898,7 @@
 
 ## Nix 
 
+- [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [nix-community/nixbsd](https://github.com/nix-community/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel [maintainer=@artemist,@rhelmot]
@@ -915,6 +943,16 @@
 
 ## Others 
 
+- [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
+- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
+- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
+- [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
+- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [mluukkai/KubernetesSubmissions](https://github.com/mluukkai/KubernetesSubmissions) - 
 - [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
 - [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
@@ -1074,6 +1112,7 @@
 - [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
 - [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec) - A curated list of awesome infosec courses and training resources.
 - [secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Developme
@@ -1134,6 +1173,7 @@
 
 ## PHP 
 
+- [seblucas/cops](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) - 
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -1166,11 +1206,28 @@
 
 ## Python 
 
+- [ericchansen/kosync-cwa-bridge](https://github.com/ericchansen/kosync-cwa-bridge) - Mirror KOReader reading progress from sync.koreader.rocks into Calibre-Web-Automated
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+- [puzzle/puzzle.opnsense](https://github.com/puzzle/puzzle.opnsense) - An Ansible Collection to configure an opnsense Firewall
+- [opnsense/docs](https://github.com/opnsense/docs) - OPNsense documentation
+- [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
+- [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!
+- [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
+- [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
+- [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
+- [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
+- [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
+- [Nezreka/SoulSync](https://github.com/Nezreka/SoulSync) - Intelligent Music & Video Automation Platform
+- [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
+- [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
+- [sruf79/halo-spaces](https://github.com/sruf79/halo-spaces) - A calm, tidy design for Thunderbird on macOS – inspired by Apple Mail, Calendar and Contacts, with colourful spaces.
 - [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent.
 - [rootshell-labs/octodns-desec](https://github.com/rootshell-labs/octodns-desec) - deSEC.io provider for octoDNS
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
@@ -1197,6 +1254,7 @@
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [grplyler/cisco-cheatsheet](https://github.com/grplyler/cisco-cheatsheet) - A Cisco Cheatsheet: Commands and Snippets for bootstrapping, boilerplate, configuration, and hardening of Cisco routers and switches.
+- [gnu-gnu/network-fundamentals-lab](https://github.com/gnu-gnu/network-fundamentals-lab) - Hands-on network troubleshooting labs — break, observe, and fix core TCP/IP concepts using containerlab
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
@@ -1348,7 +1406,7 @@
 - [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
 - [desec-io/desec-stack](https://github.com/desec-io/desec-stack) - Backbone of the deSEC Free Secure DNS Hosting Service
 - [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan
-- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits skills for security research, vulnerability detection, and audit workflows
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
 - [akpw/mktxp](https://github.com/akpw/mktxp) - CLI Diagnostic, Prometheus Exporter, and GitOps Configuration for Mikrotik RouterOS devices
@@ -1435,6 +1493,7 @@
 ## Rust 
 
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
+- [SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) - GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
@@ -1467,7 +1526,7 @@
 - [typst/citationberg](https://github.com/typst/citationberg) - A library for parsing CSL styles.
 - [typst/biblatex](https://github.com/typst/biblatex) - A Rust crate for parsing and writing BibTeX and BibLaTeX files.
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 5x faster Homebrew client
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 10x faster Homebrew client
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
@@ -1548,6 +1607,7 @@
 
 ## Shell 
 
+- [SimpleHomelab/Deployrr](https://github.com/SimpleHomelab/Deployrr) - Deployrr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and what it can/cannot do.
 - [MariaDB/mariadb-docker](https://github.com/MariaDB/mariadb-docker) - Docker Official Image packaging for MariaDB
 - [openbao/openbao-helm](https://github.com/openbao/openbao-helm) - Helm chart to install OpenBao and other associated components.
 - [CiscoLearning/ccna-auto-prep](https://github.com/CiscoLearning/ccna-auto-prep) - 
@@ -1634,7 +1694,6 @@
 - [Reaper0x1/bitwarden-portal](https://github.com/Reaper0x1/bitwarden-portal) - Automate backup and restore between Bitwarden and/or Vaultwarden vault.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
@@ -1674,6 +1733,8 @@
 
 ## Swift 
 
+- [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents
+- [ruddarr/app](https://github.com/ruddarr/app) - A native iOS companion app for Radarr and Sonarr instances.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp) - Automated iOS Backup Robot
@@ -1740,6 +1801,8 @@
 
 ## TypeScript 
 
+- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
+- [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [rage/secret-project-331](https://github.com/rage/secret-project-331) - 
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
@@ -1789,7 +1852,6 @@
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [Seeky91/immich-tv-webos](https://github.com/Seeky91/immich-tv-webos) - Displays Immich medias on LG WebOS TV
 - [volkovmqx/cccbib](https://github.com/volkovmqx/cccbib) - media.ccc.de media library application for webOS. Think of it as a Netflix for hackers
-- [catppuccin/web-file-explorer-icons](https://github.com/catppuccin/web-file-explorer-icons) - 📂 Soothing pastel icons for GitHub, Gitlab, Gitea, Forgejo and more!
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [matklad/matklad.github.io](https://github.com/matklad/matklad.github.io) - My coding related blog

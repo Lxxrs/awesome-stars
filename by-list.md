@@ -266,6 +266,7 @@
 - [dominikmuellr/trudido](https://github.com/dominikmuellr/trudido) - Simple tasks. Secure notes. Made in Europe.
 - [opencloud-eu/android](https://github.com/opencloud-eu/android) - 🤖
 - [music-assistant/mobile-app](https://github.com/music-assistant/mobile-app) - The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this project aims to provide a unified codebase for seamless music management across multiple platforms.
+- [OpenVitals-MTU/android-app](https://github.com/OpenVitals-MTU/android-app) - Privacy-first Android dashboard for viewing and adding Health Connect data locally, with no account or cloud required. 
 
 <a name="backups"></a>
 
@@ -323,6 +324,7 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
+- [TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration) - The ultimate Firefox configuration that is acceptable Privacy-Wise while being as much feature-packed as possible.
 
 <a name="certifications-k8s-lpic-ccna"></a>
 
@@ -557,6 +559,7 @@
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [fjaeckel/seriesoftubes](https://github.com/fjaeckel/seriesoftubes) - 
+- [TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts) - The ultimate collection of scripts to download everything you bought on GOG.com
 
 <a name="git-github"></a>
 
@@ -606,6 +609,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [astral-sh/ruff-action](https://github.com/astral-sh/ruff-action) - A GitHub Action to run Ruff
+- [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 
 <a name="homebrew-3ds-steam-deck-etc"></a>
 
@@ -787,6 +791,7 @@
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+- [endurain-project/endurain](https://github.com/endurain-project/endurain) -  Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 
 <a name="iam-certs-proxy-vpn"></a>
 
@@ -1256,6 +1261,7 @@
 - [linuxserver/docker-calibre](https://github.com/linuxserver/docker-calibre) - 
 - [azoffshowy/dangbro](https://github.com/azoffshowy/dangbro) - WebOS SSAP Tooling
 - [throwaway96/slopbro](https://github.com/throwaway96/slopbro) - PoC for jsserver vulnerability in webOS 3.5+(?)
+- [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 
 <a name="network-automation"></a>
 
@@ -1396,6 +1402,11 @@
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
+- [vimjoyer/flake-starter-config](https://github.com/vimjoyer/flake-starter-config) - 
+- [iynaix/dotfiles](https://github.com/iynaix/dotfiles) - I use NixOS btw.
+- [Ladas552/Nix-Lands](https://github.com/Ladas552/Nix-Lands) - [MIRROR] My NixOS config Part 4: Tack is unbreakable https://tangled.org/ladas552.me/Nix-Lands
+- [vimjoyer/nixconf](https://github.com/vimjoyer/nixconf) - 
+- [Goxore/nixconf](https://github.com/Goxore/nixconf) - 
 
 <a name="observability"></a>
 
@@ -1710,6 +1721,7 @@
 - [Hypfer/hass-valetudo](https://github.com/Hypfer/hass-valetudo) - Valetudo for Home Assistant 
 - [nielsfaber/alarmo](https://github.com/nielsfaber/alarmo) - Easy to use alarm system integration for Home Assistant
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
+- [hassio-addons/app-adguard-home](https://github.com/hassio-addons/app-adguard-home) - AdGuard Home - Home Assistant Community Apps
 
 <a name="typst"></a>
 
@@ -1899,6 +1911,7 @@
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
 - [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
+- [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 
 <a name="vim-neovim"></a>
 

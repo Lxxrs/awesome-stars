@@ -354,6 +354,7 @@
 - [alijahnas/CKA-practice-exercises](https://github.com/alijahnas/CKA-practice-exercises) - This is a guide for passing the CNCF Certified Kubernetes Administrator (CKA) with practice exercises. Good luck!
 - [cncf/curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
 - [vj2201/CKA-PREP-2025-v2](https://github.com/vj2201/CKA-PREP-2025-v2) - 
+- [vj2201/killercoda-scenarios](https://github.com/vj2201/killercoda-scenarios) - 
 
 <a name="cloud-devops-iac"></a>
 
@@ -559,7 +560,7 @@
 - [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Dev repo for @zig-gamedev libs and sample applications
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-- [fjaeckel/seriesoftubes](https://github.com/fjaeckel/seriesoftubes) - 
+- [fjaeckel/seriesoftubes](https://github.com/fjaeckel/seriesoftubes) - A free cartoon browser game about how the internet really works: lay fiber and subsea cables, peer at IXPs, bill on the 95th percentile and survive backhoes, sharks and route leaks on your way to Tier 1.
 - [TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts) - The ultimate collection of scripts to download everything you bought on GOG.com
 
 <a name="git-github"></a>
@@ -1359,7 +1360,7 @@
 - [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [ytti/oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.
-- [fjaeckel/seriesoftubes](https://github.com/fjaeckel/seriesoftubes) - 
+- [fjaeckel/seriesoftubes](https://github.com/fjaeckel/seriesoftubes) - A free cartoon browser game about how the internet really works: lay fiber and subsea cables, peer at IXPs, bill on the 95th percentile and survive backhoes, sharks and route leaks on your way to Tier 1.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 
 <a name="nix"></a>
@@ -1517,14 +1518,14 @@
 - [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [sruf79/halo-spaces](https://github.com/sruf79/halo-spaces) - A calm, tidy design for Thunderbird on macOS – inspired by Apple Mail, Calendar and Contacts, with colourful spaces.
+- [sruf79/halo-spaces](https://github.com/sruf79/halo-spaces) - A calm, tidy design for Thunderbird on macOS, with colourful spaces, message cards and a clear calendar.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [benbalter/book-kit](https://github.com/benbalter/book-kit) - Build and quality tooling for Markdown books: EPUB 3, Kindle, print PDF and PDF/X-1a, HTML, and DOCX from one source.
@@ -1731,6 +1732,9 @@
 - [Revisor01/VacuPilot](https://github.com/Revisor01/VacuPilot) - Native iOS app for Valetudo robot vacuums.
 - [willemcvu/valetudo-dreame-voicepacks](https://github.com/willemcvu/valetudo-dreame-voicepacks) - 
 - [Hypfer/valetudo-helper-httpbridge](https://github.com/Hypfer/valetudo-helper-httpbridge) - Utility webserver
+- [pypolestar/polestar_api](https://github.com/pypolestar/polestar_api) - Polestar API - Home Assistant Component
+- [kildahldev/unofficial-polestar-api](https://github.com/kildahldev/unofficial-polestar-api) - Unofficial Polestar API and integration for Home Assistant
+- [pypolestar/pypolestar](https://github.com/pypolestar/pypolestar) - Python API for Polestar Vehicles
 
 <a name="typst"></a>
 

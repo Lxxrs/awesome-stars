@@ -51,7 +51,7 @@
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - KoboldCpp - Run GGUF AI models locally with a KoboldAI UI. One File. Zero Install.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
@@ -667,7 +667,7 @@
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [opnsense/plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection
 - [0ki/mikrotik-tools](https://github.com/0ki/mikrotik-tools) - Tools for Mikrotik devices
-- [hack-gpon/hack-gpon.github.io](https://github.com/hack-gpon/hack-gpon.github.io) - 
+- [hack-gpon/hack-gpon.github.io](https://github.com/hack-gpon/hack-gpon.github.io) - Worldwide wiki on how to access, change and edit ONTs
 - [hack-gpon/zyxel-pmg-3000-mod-kit](https://github.com/hack-gpon/zyxel-pmg-3000-mod-kit) - 
 - [PeterPawn/decoder](https://github.com/PeterPawn/decoder) - "secrets" decoding for FRITZ!OS devices
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) - Prometheus exporter for Fritz!Box home routers
@@ -1266,6 +1266,11 @@
 - [azoffshowy/dangbro](https://github.com/azoffshowy/dangbro) - WebOS SSAP Tooling
 - [throwaway96/slopbro](https://github.com/throwaway96/slopbro) - PoC for jsserver vulnerability in webOS 3.5+(?)
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
+- [nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame) - A personal home screen for Samsung The Frame. A starting point to fork and adapt.
+- [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse) - For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.
+- [zzeppieri/webos-custom-home](https://github.com/zzeppieri/webos-custom-home) - Ad-free custom home screen for rooted LG webOS TVs - real app launches, clock/weather widgets, Home-button takeover, and boot autostart.
+- [ammar027/lumen-webos](https://github.com/ammar027/lumen-webos) - Lumen: a tvOS-style, GPU-light home screen for rooted LG webOS TVs (patches on partridgeworks/webos-launcher)
+- [partridgeworks/webos-launcher](https://github.com/partridgeworks/webos-launcher) - Minimalist home-screen launcher for LG webOS TVs (webOS 6 / Chrome 79). No root required.
 
 <a name="network-automation"></a>
 
@@ -1673,7 +1678,7 @@
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.
 - [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!
 - [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software
-- [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
+- [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) - Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, Android phones and iPhone backups. Double-click apps for Windows, Mac and Linux, in 27 languages.
 
 <a name="smart-home"></a>
 

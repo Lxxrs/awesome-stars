@@ -694,7 +694,7 @@
 - [ChristianLempa/homelab](https://github.com/ChristianLempa/homelab) - This is my entire homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.
 - [timothystewart6/launchpad](https://github.com/timothystewart6/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated self-hosting platform, from empty disks to running services with a single command
 - [ChristianLempa/boilerplates-library](https://github.com/ChristianLempa/boilerplates-library) - My personal Boilerplates template library contains a growing collection of templates for homelabs and self-hosted infrastructure, covering Docker Compose, Docker Swarm, Kubernetes, Helm, Terraform, Ansible, Bash, and Python
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
@@ -903,7 +903,7 @@
 - [SideloadlyiOS/Sideloadly-Download](https://github.com/SideloadlyiOS/Sideloadly-Download) - Sideloadly - iOS, Apple Silicon & TV Sideloading
 - [SideStore/Community-Source](https://github.com/SideStore/Community-Source) - Repo for our Community Source and Trusted Source submissions. Please create tickets here to request your app(s) be added to our Trusted Apps
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
-- [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) - An experimental Gecko-based web browser for iOS 13+.
+- [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) - A Gecko-based web browser for iOS 13+. Currently in beta.
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0
 - [Dadoum/Sideloader](https://github.com/Dadoum/Sideloader) - Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…

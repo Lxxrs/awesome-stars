@@ -34,6 +34,7 @@
 - [bash](#bash)
 - [beginner-project](#beginner-project)
 - [bioinformatics](#bioinformatics)
+- [bitcoin](#bitcoin)
 - [bootstrap](#bootstrap)
 - [bugbounty](#bugbounty)
 - [c](#c)
@@ -107,6 +108,7 @@
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
+- [flipperzero](#flipperzero)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [font](#font)
@@ -429,6 +431,7 @@
 
 ## android 
 
+- [kageroumado/piru](https://github.com/kageroumado/piru) - Dose journal for iPhone, Apple Watch, Android and Mac, with pharmacokinetic timelines, interaction warnings and an offline substance library
 - [music-assistant/mobile-app](https://github.com/music-assistant/mobile-app) - The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this pro
 - [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -624,7 +627,7 @@
 - [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
 - [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
 - [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!
-- [home-assistant/apps](https://github.com/home-assistant/apps) - :heavy_plus_sign: Docker add-ons for Home Assistant
+- [home-assistant/apps](https://github.com/home-assistant/apps) - :toolbox: The official Apps repository for Home Assistant
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
@@ -1035,6 +1038,10 @@
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
+## bitcoin 
+
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
+
 ## bootstrap 
 
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
@@ -1209,6 +1216,7 @@
 
 ## cloud 
 
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [NetAuto-RheinMain/NetAuto-Bootcamp](https://github.com/NetAuto-RheinMain/NetAuto-Bootcamp) - An introduction into the world of Network Automation
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
@@ -1462,6 +1470,7 @@
 
 ## developer-tools 
 
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app) - Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
@@ -1478,6 +1487,7 @@
 
 ## development 
 
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 - [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at AI engineering & system design, join this newsletter 👇
@@ -1557,6 +1567,8 @@
 
 ## docker 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [docsy/docsy-example](https://github.com/docsy/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
@@ -1600,7 +1612,7 @@
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [esphome/home-assistant-addon](https://github.com/esphome/home-assistant-addon) - ESPHome Home Assistant Add-on
-- [home-assistant/apps](https://github.com/home-assistant/apps) - :heavy_plus_sign: Docker add-ons for Home Assistant
+- [home-assistant/apps](https://github.com/home-assistant/apps) - :toolbox: The official Apps repository for Home Assistant
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
@@ -1825,6 +1837,14 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+
+## flipperzero 
+
+- [flipperdevices/flipper-application-catalog](https://github.com/flipperdevices/flipper-application-catalog) - Flipper Application Catalog
+- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+- [flipperdevices/Flipper-Android-App](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
+- [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 
 ## flutter 
 
@@ -2216,7 +2236,7 @@
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [home-assistant/apps](https://github.com/home-assistant/apps) - :heavy_plus_sign: Docker add-ons for Home Assistant
+- [home-assistant/apps](https://github.com/home-assistant/apps) - :toolbox: The official Apps repository for Home Assistant
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt
 - [voc/voctoweb](https://github.com/voc/voctoweb) - voctoweb – the frontend and backend software behind media.ccc.de
@@ -2443,6 +2463,7 @@
 
 ## ios 
 
+- [kageroumado/piru](https://github.com/kageroumado/piru) - Dose journal for iPhone, Apple Watch, Android and Mac, with pharmacokinetic timelines, interaction warnings and an offline substance library
 - [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents
 - [music-assistant/mobile-app](https://github.com/music-assistant/mobile-app) - The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this pro
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
@@ -2494,7 +2515,7 @@
 - [RavenSystem/esp-homekit-devices](https://github.com/RavenSystem/esp-homekit-devices) - Advanced firmware to add native Apple HomeKit and custom configurations, compatible with any SoC based on ESP32, ESP32-S, ESP32-C and ESP8266 series. (Shelly, Sonoff, Electrodragon, Tuya...)
 - [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [home-assistant/apps](https://github.com/home-assistant/apps) - :heavy_plus_sign: Docker add-ons for Home Assistant
+- [home-assistant/apps](https://github.com/home-assistant/apps) - :toolbox: The official Apps repository for Home Assistant
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
@@ -2607,6 +2628,7 @@
 
 ## kotlin 
 
+- [kageroumado/piru](https://github.com/kageroumado/piru) - Dose journal for iPhone, Apple Watch, Android and Mac, with pharmacokinetic timelines, interaction warnings and an offline substance library
 - [music-assistant/mobile-app](https://github.com/music-assistant/mobile-app) - The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this pro
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [wgtunnel/android](https://github.com/wgtunnel/android) - An advanced, open-source client for WireGuard and AmneziaWG on Android.
@@ -2647,6 +2669,7 @@
 
 ## kubernetes 
 
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
@@ -2975,6 +2998,7 @@
 
 ## macos 
 
+- [kageroumado/piru](https://github.com/kageroumado/piru) - Dose journal for iPhone, Apple Watch, Android and Mac, with pharmacokinetic timelines, interaction warnings and an offline substance library
 - [irori-app/irori](https://github.com/irori-app/irori) - Every game you own, around one fire. A fast, native game launcher for Linux, macOS and Windows: Epic Games, GOG, Amazon, itch.io, Steam, emulators and your own games in one library.
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
@@ -3463,6 +3487,8 @@
 
 ## others 
 
+- [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
+- [openconfig/kne](https://github.com/openconfig/kne) - 
 - [gspannu/OPN-Plugins](https://github.com/gspannu/OPN-Plugins) - OPNSense Plugins
 - [mimugmail/opn-repo](https://github.com/mimugmail/opn-repo) - OPNsense repo by mimugmail
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
@@ -3723,12 +3749,11 @@
 - [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io) - NixOS + Niri + Noctalia. Three letters, zero compromise.
 - [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the OpenGitOps project which are versioned and released together (including the GitOps Principles and Glossary)
 - [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project
-- [flipperdevices/flipper-application-catalog](https://github.com/flipperdevices/flipper-application-catalog) - Flipper Application Catalog
 - [streamyfin/jellyfin-plugin-streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin) - Companion plugin for Streamyfin
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore) - Nagios Core
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
-- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - Keep your coding agent up to date with the latest web best practices
 - [CachyOS/cachyos-niri-noctalia](https://github.com/CachyOS/cachyos-niri-noctalia) - Niri + Noctalia Settings
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -3809,7 +3834,6 @@
 - [touying-typ/touying](https://github.com/touying-typ/touying) - Touying is a powerful package for creating presentation slides in Typst.
 - [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - 
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
-- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [GoogleCloudPlatform/kubernetes-engine-samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples) - Sample applications for Google Kubernetes Engine (GKE)
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters
@@ -3823,7 +3847,6 @@
 - [st-ty1/Arch-Linux_firmware-mod-kit](https://github.com/st-ty1/Arch-Linux_firmware-mod-kit) - How-to: Build firmware-mod-kit on Arch Linux/Artix
 - [hack-gpon/zyxel-pmg-3000-mod-kit](https://github.com/hack-gpon/zyxel-pmg-3000-mod-kit) - 
 - [xvzf/zyxel-gpon-sfp](https://github.com/xvzf/zyxel-gpon-sfp) - Telekom FTTH with OpenWRT/PfSense/VyOS/Mikrotik/... (Reverse engineering Zyxel PMG3000-D20B GPON SFP)
-- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [TanStack/cli](https://github.com/TanStack/cli) - The official TanStack CLI - Project Scaffolding, MCP Server, Agent Skills Installation, etc
 - [astrolicious/astro-tips.dev](https://github.com/astrolicious/astro-tips.dev) - The place for content that goes beyond the official docs, for all Astronauts!
 - [incluud/color-contrast-checker](https://github.com/incluud/color-contrast-checker) - WCAG 2.2 color contrast validator with design system integration. Test accessibility compliance, generate OKLCH palettes, export CSS custom properties and Figma-compatible JSON tokens. Build with Astr
@@ -4468,6 +4491,7 @@
 
 ## raspberry-pi 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
 - [ironsheep/RPi-Reporter-MQTT2HA-Daemon](https://github.com/ironsheep/RPi-Reporter-MQTT2HA-Daemon) - Linux service to collect and transfer Raspberry Pi data via MQTT to Home Assistant (for RPi Monitoring)
@@ -4761,6 +4785,7 @@
 
 ## self-hosted 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
@@ -4934,6 +4959,7 @@
 
 ## swift 
 
+- [kageroumado/piru](https://github.com/kageroumado/piru) - Dose journal for iPhone, Apple Watch, Android and Mac, with pharmacokinetic timelines, interaction warnings and an offline substance library
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [ruddarr/app](https://github.com/ruddarr/app) - A native iOS companion app for Radarr and Sonarr instances.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
@@ -4964,6 +4990,7 @@
 
 ## swiftui 
 
+- [kageroumado/piru](https://github.com/kageroumado/piru) - Dose journal for iPhone, Apple Watch, Android and Mac, with pharmacokinetic timelines, interaction warnings and an offline substance library
 - [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents
 - [ruddarr/app](https://github.com/ruddarr/app) - A native iOS companion app for Radarr and Sonarr instances.
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
@@ -5226,6 +5253,7 @@
 
 ## vscode 
 
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) - VS Code extension for LLM-assisted code/text completion
 - [vitest-dev/vscode](https://github.com/vitest-dev/vscode) - VS Code extension for Vitest
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.

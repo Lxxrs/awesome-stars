@@ -160,6 +160,8 @@
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+- [pyinfra-dev/pyinfra-skills](https://github.com/pyinfra-dev/pyinfra-skills) - 
+- [wuwangzhang1216/abliterix](https://github.com/wuwangzhang1216/abliterix) - Automated alignment adjustment for LLMs — direct steering, LoRA, and MoE expert-granular abliteration, optimized via multi-objective Optuna TPE.
 
 <a name="android"></a>
 
@@ -468,6 +470,7 @@
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [astral-sh/ruff-action](https://github.com/astral-sh/ruff-action) - A GitHub Action to run Ruff
+- [pyinfra-dev/pyinfra-skills](https://github.com/pyinfra-dev/pyinfra-skills) - 
 
 <a name="dotfiles-cli"></a>
 
@@ -573,6 +576,8 @@
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [irori-app/irori](https://github.com/irori-app/irori) - Every game you own, around one fire. A fast, native game launcher for Linux, macOS and Windows: Epic Games, GOG, Amazon, itch.io, Steam, emulators and your own games in one library.
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
+- [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) - Experimental Darling runtime patches and tools for testing the macOS League client on Linux
 
 <a name="git-github"></a>
 
@@ -1083,6 +1088,7 @@
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [andknownmaly/packettracer](https://github.com/andknownmaly/packettracer) - Packet Tracer Installer for linux
 - [irori-app/irori](https://github.com/irori-app/irori) - Every game you own, around one fire. A fast, native game launcher for Linux, macOS and Windows: Epic Games, GOG, Amazon, itch.io, Steam, emulators and your own games in one library.
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 
 <a name="mac"></a>
 
@@ -1620,6 +1626,7 @@
 - [astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit) - 
 - [astral-sh/ruff-action](https://github.com/astral-sh/ruff-action) - A GitHub Action to run Ruff
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
+- [pyinfra-dev/pyinfra-skills](https://github.com/pyinfra-dev/pyinfra-skills) - 
 
 <a name="security"></a>
 
@@ -2194,6 +2201,14 @@
 - [DropMorePackets/berghain](https://github.com/DropMorePackets/berghain) - A Go and HAProxy-powered bouncer, ensuring that only the coolest browsers get access to the backend party!
 - [ccollier86/forgejo-coolify-bridge](https://github.com/ccollier86/forgejo-coolify-bridge) - Use Forgejo with Coolify just like GitHub! Native integration for browsing repos, automatic webhooks, and push-to-deploy
 - [DimitriosNicolay/portfolio](https://github.com/DimitriosNicolay/portfolio) - 
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
+- [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
+- [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
+- [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [gokarna-theme/gokarna-hugo](https://github.com/gokarna-theme/gokarna-hugo) - A minimal opinionated theme for Hugo
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 
 <a name="windows"></a>
 

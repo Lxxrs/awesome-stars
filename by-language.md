@@ -318,6 +318,7 @@
 
 ## Go 
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [siemens/cshargextcap](https://github.com/siemens/cshargextcap) - [Edgeshark] Wireshark extcap plugin for container traffic capture live streaming.
 - [openconfig/kne](https://github.com/openconfig/kne) - 
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -537,6 +538,12 @@
 
 ## HTML 
 
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
+- [gokarna-theme/gokarna-hugo](https://github.com/gokarna-theme/gokarna-hugo) - A minimal opinionated theme for Hugo
+- [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
+- [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA) - Useful notes for the KCNA - Kubernetes and Cloud Native Associate
@@ -953,6 +960,7 @@
 
 ## Objective-C 
 
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol) - :skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
 - [dmarcotte/easy-move-resize](https://github.com/dmarcotte/easy-move-resize) - Adds "modifier key + mouse drag" move and resize to OSX
@@ -960,6 +968,7 @@
 
 ## Others 
 
+- [pyinfra-dev/pyinfra-skills](https://github.com/pyinfra-dev/pyinfra-skills) - 
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [gspannu/OPN-Plugins](https://github.com/gspannu/OPN-Plugins) - OPNSense Plugins
 - [mundschenk-at/ha-valetudo-blueprints](https://github.com/mundschenk-at/ha-valetudo-blueprints) - Blueprints for using Valetudo with Home Assistant
@@ -1225,6 +1234,8 @@
 
 ## Python 
 
+- [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) - Experimental Darling runtime patches and tools for testing the macOS League client on Linux
+- [wuwangzhang1216/abliterix](https://github.com/wuwangzhang1216/abliterix) - Automated alignment adjustment for LLMs — direct steering, LoRA, and MoE expert-granular abliteration, optimized via multi-objective Optuna TPE.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [opsmill/infrahub](https://github.com/opsmill/infrahub) - Infrahub is a graph-based data management platform with built-in version control, CI workflows, peer review, and API access. It’s purpose-built to power reliable infrastructure automation at scale.
@@ -1632,6 +1643,7 @@
 
 ## SCSS 
 
+- [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [rancher/docs](https://github.com/rancher/docs) - Documentation for Rancher products (for 2.0/new site)
 - [rancher/rancher-product-docs](https://github.com/rancher/rancher-product-docs) - 
 - [opensearch-project/documentation-website](https://github.com/opensearch-project/documentation-website) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.

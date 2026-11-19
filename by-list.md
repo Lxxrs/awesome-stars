@@ -559,6 +559,7 @@
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+- [macterm/macterm](https://github.com/macterm/macterm) - A feature-rich macOS terminal built to be pleasant, native, and lightweight
 
 <a name="gaming"></a>
 
@@ -1160,6 +1161,7 @@
 - [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch) - A native macOS file browser with fast fuzzy filename search, powered by fsearch.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
+- [macterm/macterm](https://github.com/macterm/macterm) - A feature-rich macOS terminal built to be pleasant, native, and lightweight
 
 <a name="mediaserver-smart-tv"></a>
 
@@ -2209,7 +2211,7 @@
 - [netlify/context-and-tools](https://github.com/netlify/context-and-tools) - 
 - [netlify/netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse) - Netlify Plugin to run Lighthouse on each build
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
 - [mdn/mcp](https://github.com/mdn/mcp) - MDN's prototype MCP server

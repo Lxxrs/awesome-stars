@@ -15,7 +15,6 @@
 - [👾 Dotfiles &amp; CLI](#dotfiles-cli)
 - [Gaming](#gaming)
 - [🔄 Git &amp; GitHub](#git-github)
-- [🍺 Homebrew (3DS, Steam-Deck, etc.)](#homebrew-3ds-steam-deck-etc)
 - [🔥 Homelab Infra (NAS, FW, SW, etc)](#homelab-infra-nas-fw-sw-etc)
 - [🥸 Homelab Services](#homelab-services)
 - [🔒 IAM, Certs &amp; Proxy &amp; VPN](#iam-certs-proxy-vpn)
@@ -472,6 +471,8 @@
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [astral-sh/ruff-action](https://github.com/astral-sh/ruff-action) - A GitHub Action to run Ruff
 - [pyinfra-dev/pyinfra-skills](https://github.com/pyinfra-dev/pyinfra-skills) - 
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 
 <a name="dotfiles-cli"></a>
 
@@ -581,6 +582,26 @@
 - [irori-app/irori](https://github.com/irori-app/irori) - Every game you own, around one fire. A fast, native game launcher for Linux, macOS and Windows: Epic Games, GOG, Amazon, itch.io, Steam, emulators and your own games in one library.
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) - Experimental Darling runtime patches and tools for testing the macOS League client on Linux
+- [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
+- [RPCSX/rpcsx](https://github.com/RPCSX/rpcsx) - 
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
+- [astronautlevel2/Anemone3DS](https://github.com/astronautlevel2/Anemone3DS) - A theme and boot splash manager for the Nintendo 3DS console
+- [PabloMK7/homebrew_launcher_dummy](https://github.com/PabloMK7/homebrew_launcher_dummy) - Homebrew Launcher Loader - Dummy App
+- [nh-server/FBI-NH](https://github.com/nh-server/FBI-NH) - Open source title manager for the 3DS. (Archive)
+- [hacks-guide/MSET9](https://github.com/hacks-guide/MSET9) - Ultimate gift of Lenny
+- [Universal-Team/db](https://github.com/Universal-Team/db) - Universal-DB - An online database of 3DS and DS homebrew
+- [PretendoNetwork/nimbus](https://github.com/PretendoNetwork/nimbus) - 
+- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save management framework for 3DS and Switch.
+- [mtheall/ftpd](https://github.com/mtheall/ftpd) - FTP Server for 3DS/Switch
+- [joel16/3DSident](https://github.com/joel16/3DSident) - PSPident clone for 3DS
+- [Universal-Team/Universal-Updater](https://github.com/Universal-Team/Universal-Updater) - An easy to use app for installing and updating 3DS homebrew
+- [derrekr/fastboot3DS](https://github.com/derrekr/fastboot3DS) - A homebrew bootloader for the Nintendo 3DS that is similar to android's fastboot.
+- [d0k3/GodMode9](https://github.com/d0k3/GodMode9) - GodMode9 Explorer - A full access file browser for the Nintendo 3DS console :godmode:
+- [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS) - A complete guide to 3DS custom firmware, from stock to boot9strap.
+- [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Nintendo 3DS "Custom Firmware"
+- [SciresM/boot9strap](https://github.com/SciresM/boot9strap) - Boot9/Boot11 code execution.
 
 <a name="git-github"></a>
 
@@ -631,29 +652,6 @@
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [astral-sh/ruff-action](https://github.com/astral-sh/ruff-action) - A GitHub Action to run Ruff
 - [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
-
-<a name="homebrew-3ds-steam-deck-etc"></a>
-
-## 🍺 Homebrew (3DS, Steam-Deck, etc.)
-
-- [SciresM/boot9strap](https://github.com/SciresM/boot9strap) - Boot9/Boot11 code execution.
-- [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Nintendo 3DS "Custom Firmware"
-- [hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS) - A complete guide to 3DS custom firmware, from stock to boot9strap.
-- [d0k3/GodMode9](https://github.com/d0k3/GodMode9) - GodMode9 Explorer - A full access file browser for the Nintendo 3DS console :godmode:
-- [derrekr/fastboot3DS](https://github.com/derrekr/fastboot3DS) - A homebrew bootloader for the Nintendo 3DS that is similar to android's fastboot.
-- [Universal-Team/Universal-Updater](https://github.com/Universal-Team/Universal-Updater) - An easy to use app for installing and updating 3DS homebrew
-- [joel16/3DSident](https://github.com/joel16/3DSident) - PSPident clone for 3DS
-- [mtheall/ftpd](https://github.com/mtheall/ftpd) - FTP Server for 3DS/Switch
-- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save management framework for 3DS and Switch.
-- [PretendoNetwork/nimbus](https://github.com/PretendoNetwork/nimbus) - 
-- [Universal-Team/db](https://github.com/Universal-Team/db) - Universal-DB - An online database of 3DS and DS homebrew
-- [hacks-guide/MSET9](https://github.com/hacks-guide/MSET9) - Ultimate gift of Lenny
-- [nh-server/FBI-NH](https://github.com/nh-server/FBI-NH) - Open source title manager for the 3DS. (Archive)
-- [PabloMK7/homebrew_launcher_dummy](https://github.com/PabloMK7/homebrew_launcher_dummy) - Homebrew Launcher Loader - Dummy App
-- [astronautlevel2/Anemone3DS](https://github.com/astronautlevel2/Anemone3DS) - A theme and boot splash manager for the Nintendo 3DS console
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
-- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 
 <a name="homelab-infra-nas-fw-sw-etc"></a>
 
@@ -1453,6 +1451,11 @@
 - [Ladas552/Nix-Lands](https://github.com/Ladas552/Nix-Lands) - [MIRROR] My NixOS config Part 4: Tack is unbreakable https://tangled.org/ladas552.me/Nix-Lands
 - [vimjoyer/nixconf](https://github.com/vimjoyer/nixconf) - 
 - [Goxore/nixconf](https://github.com/Goxore/nixconf) - 
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
+- [torgeir/nix-darwin](https://github.com/torgeir/nix-darwin) - A nix-darwin developer setup for an M3 mac
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
+- [ryan4yin/nix-darwin-kickstarter](https://github.com/ryan4yin/nix-darwin-kickstarter) - macOS as Code! A beginner-friendly nix-darwin + home-manager + flakes startup configuration. 一份易于理解的 nix-darwin 初始配置模板，专为新手制作.
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 
 <a name="observability"></a>
 
@@ -1475,7 +1478,7 @@
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 - [AthennaMind/opnsense-exporter](https://github.com/AthennaMind/opnsense-exporter) - OPNsense Exporter for Prometheus
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 800+ integrations
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 2000+ integrations
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz) - Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!
 - [mischief/pf_exporter](https://github.com/mischief/pf_exporter) - pf exporter for prometheus
@@ -1720,6 +1723,7 @@
 - [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!
 - [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software
 - [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) - Free, offline checks for known mercenary spyware on Windows, Mac, Linux, iPhone and Android - plus the doors left open, suspicious links, emails, files and QR codes, your accounts, home network and nearby trackers. Apps with a window, 27 languages. Nothing leaves your computer.
+- [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 
 <a name="smart-home"></a>
 
@@ -1784,6 +1788,13 @@
 - [kildahldev/unofficial-polestar-api](https://github.com/kildahldev/unofficial-polestar-api) - Unofficial Polestar API and integration for Home Assistant
 - [pypolestar/pypolestar](https://github.com/pypolestar/pypolestar) - Python API for Polestar Vehicles
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+- [Mastershort/neonplan3d](https://github.com/Mastershort/neonplan3d) - The original 3D floor plan for Home Assistant: draw your home in the built-in editor and see and control lights, covers, climate, media, sensors and cameras live in neon 3D – panel and dashboard card, runs on old wall tablets too.
+- [mehanix/arcada](https://github.com/mehanix/arcada) - 📐 react & pixi.js interior design software / floor plan creator
+- [egmalt/house-planner](https://github.com/egmalt/house-planner) - Self-hosted house planner: true-scale 2D floor plan, 3D, satellite map overlay, sewer, electrical, water and underfloor heating with calculations, priced bill of materials. React + PHP, no database. By the team behind homedesignsai.pro
+- [muratozturkdev/homescape](https://github.com/muratozturkdev/homescape) - Your Home Assistant home as a live, interactive 3D dollhouse. Fully local, no cloud. Every 3D object is generated by code written by AI: no GLB or other model files.
+- [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just became the new limit.
+- [nicosandller/easy-floorplan](https://github.com/nicosandller/easy-floorplan) - Interactive Home Assistant floorplan card with a visual drag-and-drop editor for walls, doors, furniture, text and device controls
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI.
 
 <a name="typst"></a>
 
@@ -1942,7 +1953,7 @@
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
-- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs, HelloWork & SEEK
+- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, ZipRecruiter, Glassdoor, SEEK, Naukri, HelloWork, Bayt & BDJobs
 - [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [nohello-net/site](https://github.com/nohello-net/site) - 
@@ -1992,6 +2003,8 @@
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowing users to clone existing tags, generate OpenHaystack key pairs for Apple's FindMy network, and customize beacon intervals and transmit power.
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 
 <a name="vim-neovim"></a>
 
@@ -2233,6 +2246,10 @@
 - [Fastbyte01/KeepIt](https://github.com/Fastbyte01/KeepIt) - The most powerful minimal Hugo theme.
 - [victoriadrake/hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator.
 - [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
+- [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
 <a name="windows"></a>
 

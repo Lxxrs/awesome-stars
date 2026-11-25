@@ -196,6 +196,7 @@
 
 ## C++ 
 
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [RPCSX/rpcsx](https://github.com/RPCSX/rpcsx) - 
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
@@ -333,6 +334,10 @@
 
 ## Go 
 
+- [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
@@ -475,7 +480,7 @@
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -529,6 +534,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 
 ## Go Template 
@@ -605,6 +611,7 @@
 
 ## Haskell 
 
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 
@@ -707,7 +714,6 @@
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna) - The leaked exploit toolkit for various iOS versions
@@ -767,6 +773,7 @@
 
 ## Jupyter Notebook 
 
+- [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes Community Documentation
 - [devinpleuler/analytics-handbook](https://github.com/devinpleuler/analytics-handbook) - Getting started with soccer analytics
 - [eddwebster/football_analytics](https://github.com/eddwebster/football_analytics) - 📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community
@@ -781,7 +788,6 @@
 - [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell
 - [catppuccin/starship](https://github.com/catppuccin/starship) - 🚀 Soothing pastel theme for Starship
 - [catppuccin/limine](https://github.com/catppuccin/limine) - 🖥️ Soothing pastel theme for Limine
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 
 ## Kotlin 
 
@@ -954,6 +960,7 @@
 
 ## Nix 
 
+- [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin
@@ -1010,6 +1017,7 @@
 
 ## Others 
 
+- [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
 - [mweisel/containerlab-orbstack](https://github.com/mweisel/containerlab-orbstack) - This project offers an automated deployment procedure for Containerlab on an OrbStack Linux machine
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
 - [pyinfra-dev/pyinfra-skills](https://github.com/pyinfra-dev/pyinfra-skills) - 
@@ -1266,6 +1274,7 @@
 
 ## Perl 
 
+- [truenas/truenas-proxmox-plugin](https://github.com/truenas/truenas-proxmox-plugin) - For providing seamless block storage to PVE
 - [aspiers/stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
 - [cmatsuoka/asciiquarium](https://github.com/cmatsuoka/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
@@ -1444,13 +1453,14 @@
 - [astral-sh/agent-plugins](https://github.com/astral-sh/agent-plugins) - 
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
-- [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥
+- [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about Web Application Firewalls (WAFs) from a security eyelens! 🔥
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - Your Ultimate IPTV & Stream Management Companion
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) - Prometheus exporter for Fritz!Box home routers
 - [kbr/fritzconnection](https://github.com/kbr/fritzconnection) - Python-Tool to communicate with the AVM Fritz!Box by the TR-064 protocol and the AHA-HTTP-Interface
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engi
 - [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 71 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -1513,6 +1523,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
+- [0x556c79/install_ugreen_leds_controller](https://github.com/0x556c79/install_ugreen_leds_controller) - Simple bash script to install ugreen_leds_controller from https://github.com/miskcoo/ugreen_leds_controller
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
@@ -1579,12 +1590,12 @@
 
 ## Rust 
 
+- [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
 - [molybdenumsoftware/statix](https://github.com/molybdenumsoftware/statix) - A linter for the Nix language
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [irori-app/irori](https://github.com/irori-app/irori) - Every game you own, around one fire. A fast, native game launcher for Linux, macOS and Windows: Epic Games, GOG, Amazon, itch.io, Steam, emulators and your own games in one library.
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [Goxore/nixconf](https://github.com/Goxore/nixconf) - 
 - [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software
@@ -1737,7 +1748,6 @@
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [srl-labs/wsl-containerlab](https://github.com/srl-labs/wsl-containerlab) - A ready-to-use WSL distribution that makes network labbing on Windows a breeze
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
-- [truenas/truenas-proxmox-plugin](https://github.com/truenas/truenas-proxmox-plugin) - For providing seamless block storage to PVE
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [ChristianLempa/dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
@@ -1789,13 +1799,13 @@
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth
 - [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [throwaway96/faultmanager-autoroot](https://github.com/throwaway96/faultmanager-autoroot) - Exploit to root webOS 4.0+ TVs and set up Homebrew Channel
 - [throwaway96/dejavuln-autoroot](https://github.com/throwaway96/dejavuln-autoroot) - Exploit to root webOS TVs using DejaVuln and set up Homebrew Channel
 - [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
 - [EGottlieb/truenas_led](https://github.com/EGottlieb/truenas_led) - A script to control the LEDs on a UGreen NASync when running TrueNAS instead of UGOS.  Based on another user's script linked in the README.md file.
 - [ich777/unraid-ugreenleds-driver](https://github.com/ich777/unraid-ugreenleds-driver) - 
-- [0x556c79/install_ugreen_leds_controller](https://github.com/0x556c79/install_ugreen_leds_controller) - Simple bash script to install ugreen_leds_controller from https://github.com/miskcoo/ugreen_leds_controller
 - [miskcoo/ugreen_leds_controller](https://github.com/miskcoo/ugreen_leds_controller) - An LED Controller for UGREEN's DX/DXP NAS Series
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
@@ -1860,7 +1870,7 @@
 - [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - The native UI for Apple Containers and (o)MLX sandboxes, written in swift as a replacement for docker desktop
 - [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple's platform
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher built for productivity. Fast, lightweight, and open source.
 - [perezjuanj/OpenCircuit](https://github.com/perezjuanj/OpenCircuit) - Local-first health data for multiple wearables. Read all metrics over BLE and write them to Apple Health
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
@@ -1918,6 +1928,7 @@
 
 ## TypeScript 
 
+- [orta/keytrace](https://github.com/orta/keytrace) - The monorepo for a keybase on atproto
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [meta/astryx](https://github.com/meta/astryx) - An open source design system that's fully customizable and agent ready
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
@@ -1965,7 +1976,7 @@
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
 - [withastro/prettier-plugin-astro](https://github.com/withastro/prettier-plugin-astro) - Prettier plugin for Astro
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [netlify/context-and-tools](https://github.com/netlify/context-and-tools) - 
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents
@@ -2044,6 +2055,7 @@
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). S
 - [antfu-collective/vitesse-lite](https://github.com/antfu-collective/vitesse-lite) - ⛺️ Lightweight version of Vitesse
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [Ali-Sanati/awwwards-adidas](https://github.com/Ali-Sanati/awwwards-adidas) - Awwwards-winning 3D Adidas landing page using Nextjs, Three.js, and GSAP—from start to deploy
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
@@ -2082,7 +2094,7 @@
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - AI companion for Paperless-ngx: automatically titles, tags and files your documents, reads bad scans with local OCR (PaddleOCR, CPU/GPU) and answers questions about your whole archive with cited sourc
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - AI companion for Paperless-ngx OR it's own document managment system: automatically titles, tags and files your documents, reads bad scans with local OCR (PaddleOCR, CPU/GPU) and answers questions abo
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [Xh4H/WhatsApp-device-activity-tracker](https://github.com/Xh4H/WhatsApp-device-activity-tracker) - 
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
@@ -2109,7 +2121,6 @@
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -2171,7 +2182,6 @@
 - [NicolaSpadari/portfolio](https://github.com/NicolaSpadari/portfolio) - My personal portfolio
 - [jamespurnama1/portfolio-2022](https://github.com/jamespurnama1/portfolio-2022) - Personal Portfolio Website
 - [logotip4ik/portfolio](https://github.com/logotip4ik/portfolio) - My portfolio website build with Nuxt, Scss and GSAP
-- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## YAML 

@@ -19,6 +19,7 @@
 - [🥸 Homelab Services](#homelab-services)
 - [🔒 IAM, Certs &amp; Proxy &amp; VPN](#iam-certs-proxy-vpn)
 - [📱 iOS &amp; Swift](#ios-swift)
+- [👨🏼‍💻 K8s &amp; Containers Learning](#k8s-containers-learning)
 - [🚢 K8s, Docker &amp; Containers](#k8s-docker-containers)
 - [🐧 Linux](#linux)
 - [💻 Mac](#mac)
@@ -312,6 +313,7 @@
 - [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment.
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 
 <a name="browser"></a>
 
@@ -342,31 +344,13 @@
 
 ## 👨🏼‍💻 Certifications (K8s, LPIC, CCNA)
 
-- [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
-- [walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator) - Online resources that will help you prepare for taking the CNCF CKA  2020 "Kubernetes Certified Administrator" Certification exam. with time, This is not likely the comprehensive up to date list  - please make a pull request if there something that should be added here.
 - [stacksimplify/hashicorp-certified-terraform-associate](https://github.com/stacksimplify/hashicorp-certified-terraform-associate) - Hashicorp Certified Terraform Associate
-- [yetmike/awesome-kubestronaut](https://github.com/yetmike/awesome-kubestronaut) - Awesome Kubestronaut. Resources to prepare for CKA, CKAD, CKS, KCNA, KCSA, PCA, ICA, CNPE, CNPA, CGOA, CAPA, KCA, BCA, OTCA, CCA
-- [sandervanvugt/kcna](https://github.com/sandervanvugt/kcna) - 
-- [moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA) - Useful notes for the KCNA - Kubernetes and Cloud Native Associate
-- [CloudNativeStudyGroup/Linux-Foundation-Coupons](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons) - Latest discount coupons for Linux Foundation certifications (CKA, CKAD, CKS, KCNA) and training bundles
-- [schnatterer/ckad-cka-cks-kubestronaut](https://github.com/schnatterer/ckad-cka-cks-kubestronaut) - Tips for preparing for the CKAD, CKA, CKS, KCSA and KCNA exams and how to become a kubestronaut
-- [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
-- [sandervanvugt/ckad](https://github.com/sandervanvugt/ckad) - 
-- [lucassha/CKAD-resources](https://github.com/lucassha/CKAD-resources) - Study materials for k8s CKAD
-- [bmuschko/ckad-crash-course](https://github.com/bmuschko/ckad-crash-course) - In-depth and hands-on practice for acing the exam.
-- [bmuschko/ckad-prep](https://github.com/bmuschko/ckad-prep) - Exercises demonstrated as part of the video course "Certified Kubernetes Application Developer (CKAD) Prep Course" published by O'Reilly Media.
-- [bmuschko/ckad-study-guide](https://github.com/bmuschko/ckad-study-guide) - Code example from the book "Certified Kubernetes Application Developer (CKAD) Study Guide" published by O'Reilly Media.
-- [techiescamp/linux-foundation-coupon](https://github.com/techiescamp/linux-foundation-coupon) - Latest Linux Foundation Coupon Codes  For Certification, Courses, Skillcreds, IT Professional Programs and Skillcreds
 - [psaumur/CCNA_Course_Notes](https://github.com/psaumur/CCNA_Course_Notes) - This is the repository of my personal notes taken during Jeremy's IT Lab Complete CCNA 200-301 course
 - [RonjaPonja/CCNA-Cheat-Sheet](https://github.com/RonjaPonja/CCNA-Cheat-Sheet) - A comprehensive CCNA CLI reference.
 - [grplyler/cisco-cheatsheet](https://github.com/grplyler/cisco-cheatsheet) - A Cisco Cheatsheet: Commands and Snippets for bootstrapping, boilerplate, configuration, and hardening of Cisco routers and switches.
 - [CiscoLearning/ccna-auto-prep](https://github.com/CiscoLearning/ccna-auto-prep) - 
 - [ksemaev/lpic_1-101](https://github.com/ksemaev/lpic_1-101) - Studying Linux by LPI-1 exam 101 matherials
 - [jadijadi/lpic1book](https://github.com/jadijadi/lpic1book) - 
-- [alijahnas/CKA-practice-exercises](https://github.com/alijahnas/CKA-practice-exercises) - This is a guide for passing the CNCF Certified Kubernetes Administrator (CKA) with practice exercises. Good luck!
-- [cncf/curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
-- [vj2201/CKA-PREP-2025-v2](https://github.com/vj2201/CKA-PREP-2025-v2) - 
-- [vj2201/killercoda-scenarios](https://github.com/vj2201/killercoda-scenarios) - 
 
 <a name="cloud-devops-iac"></a>
 
@@ -407,9 +391,7 @@
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
-- [k8ssandra/k8ssandra-operator](https://github.com/k8ssandra/k8ssandra-operator) - The Kubernetes operator for K8ssandra
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-- [puppetlabs/bolt](https://github.com/puppetlabs/bolt) - Bolt is an open source orchestration tool that automates the manual work it takes to maintain your infrastructure on an as-needed basis or as part of a greater orchestration workflow. It can be installed on your local workstation and connects directly to remote nodes with SSH or WinRM, so you are not required to install any agent software.
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -474,9 +456,8 @@
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [astral-sh/ruff-action](https://github.com/astral-sh/ruff-action) - A GitHub Action to run Ruff
 - [pyinfra-dev/pyinfra-skills](https://github.com/pyinfra-dev/pyinfra-skills) - 
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
 <a name="dotfiles-cli"></a>
 
@@ -566,6 +547,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [macterm/macterm](https://github.com/macterm/macterm) - A feature-rich macOS terminal built to be pleasant, native, and lightweight
 - [elliottminns/dotfiles](https://github.com/elliottminns/dotfiles) - 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 
 <a name="gaming"></a>
 
@@ -657,6 +639,7 @@
 - [astral-sh/ruff-action](https://github.com/astral-sh/ruff-action) - A GitHub Action to run Ruff
 - [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 
 <a name="homelab-infra-nas-fw-sw-etc"></a>
 
@@ -944,6 +927,34 @@
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [meshtastic/Meshtastic-Apple](https://github.com/meshtastic/Meshtastic-Apple) - Apple iOS, iPadOS, macOS, watchOS and visionOS Clients For Meshtastic
 
+<a name="k8s-containers-learning"></a>
+
+## 👨🏼‍💻 K8s &amp; Containers Learning
+
+- [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
+- [walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator) - Online resources that will help you prepare for taking the CNCF CKA  2020 "Kubernetes Certified Administrator" Certification exam. with time, This is not likely the comprehensive up to date list  - please make a pull request if there something that should be added here.
+- [bmuschko/cka-crash-course](https://github.com/bmuschko/cka-crash-course) - In-depth and hands-on practice for acing the exam.
+- [bmuschko/cka-study-guide](https://github.com/bmuschko/cka-study-guide) - Code example from the book "Certified Kubernetes Administrator (CKA) Study Guide" published by O'Reilly Media.
+- [techiescamp/linux-foundation-coupon](https://github.com/techiescamp/linux-foundation-coupon) - Latest Linux Foundation Coupon Codes  For Certification, Courses, Skillcreds, IT Professional Programs and Skillcreds
+- [schnatterer/ckad-cka-cks-kubestronaut](https://github.com/schnatterer/ckad-cka-cks-kubestronaut) - Tips for preparing for the CKAD, CKA, CKS, KCSA and KCNA exams and how to become a kubestronaut
+- [yetmike/awesome-kubestronaut](https://github.com/yetmike/awesome-kubestronaut) - Awesome Kubestronaut. Resources to prepare for CKA, CKAD, CKS, KCNA, KCSA, PCA, ICA, CNPE, CNPA, CGOA, CAPA, KCA, BCA, OTCA, CCA
+- [CloudNativeStudyGroup/Linux-Foundation-Coupons](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons) - Latest discount coupons for Linux Foundation certifications (CKA, CKAD, CKS, KCNA) and training bundles
+- [alijahnas/CKA-practice-exercises](https://github.com/alijahnas/CKA-practice-exercises) - This is a guide for passing the CNCF Certified Kubernetes Administrator (CKA) with practice exercises. Good luck!
+- [vj2201/CKA-PREP-2025-v2](https://github.com/vj2201/CKA-PREP-2025-v2) - 
+- [vj2201/killercoda-scenarios](https://github.com/vj2201/killercoda-scenarios) - 
+- [cncf/curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
+- [iam-veeramalla/Kubernetes-Zero-to-Hero](https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero) - Creating this repo with an intent to make Kubernetes easy for begineers. This is a work-in-progress repo.
+- [LondheShubham153/kubestarter](https://github.com/LondheShubham153/kubestarter) - This is a Repository to get you started with Kubernetes.
+- [kelseyhightower/intro-to-kubernetes-workshop](https://github.com/kelseyhightower/intro-to-kubernetes-workshop) - Intro to Kubernetes Workshop
+- [docker-hy/material-applications](https://github.com/docker-hy/material-applications) - Docker material applications
+- [kubernetes-hy/kubernetes-hy.github.io](https://github.com/kubernetes-hy/kubernetes-hy.github.io) - Course material for the DevOps with Kubernetes free MOOC by the University of Helsinki
+- [mluukkai/KubernetesSubmissions](https://github.com/mluukkai/KubernetesSubmissions) - 
+- [kubernetes-hy/material-example](https://github.com/kubernetes-hy/material-example) - This repository has all of the example applications for https://devopswithkubernetes.com
+- [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
+- [techiescamp/devops-projects](https://github.com/techiescamp/devops-projects) - DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
+- [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
+
 <a name="k8s-docker-containers"></a>
 
 ## 🚢 K8s, Docker &amp; Containers
@@ -973,8 +984,6 @@
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes Community Documentation
 - [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
-- [kubernetes/kubernetes-template-project](https://github.com/kubernetes/kubernetes-template-project) - A template for starting new projects on the github.com/kubernetes organization
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
@@ -985,17 +994,13 @@
 - [rancher/fleet](https://github.com/rancher/fleet) - Deploy workloads from Git to large fleets of Kubernetes clusters
 - [rancher/fleet-examples](https://github.com/rancher/fleet-examples) - Fleet usage examples
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [iam-veeramalla/Kubernetes-Zero-to-Hero](https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero) - Creating this repo with an intent to make Kubernetes easy for begineers. This is a work-in-progress repo.
 - [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.
 - [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
-- [LondheShubham153/kubestarter](https://github.com/LondheShubham153/kubestarter) - This is a Repository to get you started with Kubernetes.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
-- [kelseyhightower/intro-to-kubernetes-workshop](https://github.com/kelseyhightower/intro-to-kubernetes-workshop) - Intro to Kubernetes Workshop
 - [gvisor/gvisor](https://github.com/gvisor/gvisor) - Application Kernel for Containers
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
@@ -1029,7 +1034,6 @@
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
-- [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
@@ -1045,9 +1049,6 @@
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in < 60s 🚀
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
-- [docker-hy/material-applications](https://github.com/docker-hy/material-applications) - Docker material applications
-- [kubernetes-hy/material-example](https://github.com/kubernetes-hy/material-example) - This repository has all of the example applications for https://devopswithkubernetes.com
-- [mluukkai/KubernetesSubmissions](https://github.com/mluukkai/KubernetesSubmissions) - 
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [openconfig/kne](https://github.com/openconfig/kne) - 
 - [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
@@ -1055,6 +1056,43 @@
 - [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple's platform
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+- [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
+- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+- [cdwv/awesome-helm](https://github.com/cdwv/awesome-helm) - Collaborative list of awesome helm charts and resources. PRs are welcome!
+- [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins
+- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash, fish, and zsh
+- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
+- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
+- [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
+- [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Cloud Native packages
+- [fluxcd/flux-schema](https://github.com/fluxcd/flux-schema) - Flux CLI plugin for Kubernetes manifests validation against JSON Schemas and CEL rules
+- [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging
+- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
+- [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd.
+- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
+- [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
+- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images.
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 
 <a name="linux"></a>
 
@@ -1102,6 +1140,7 @@
 - [irori-app/irori](https://github.com/irori-app/irori) - Every game you own, around one fire. A fast, native game launcher for Linux, macOS and Windows: Epic Games, GOG, Amazon, itch.io, Steam, emulators and your own games in one library.
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui) - alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite USB Drivers
+- [iximiuz/shellgym](https://github.com/iximiuz/shellgym) - ShellGym - an Interactive Linux Command-Line Trainer
 
 <a name="mac"></a>
 
@@ -1483,6 +1522,7 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa] 
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 
 <a name="observability"></a>
 
@@ -1543,6 +1583,10 @@
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
+- [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 
 <a name="organization-productivity-docs"></a>
 
@@ -2038,6 +2082,15 @@
 - [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
 - [orta/keytrace](https://github.com/orta/keytrace) - The monorepo for a keybase on atproto
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
+- [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
+- [trillium-rs/trillium](https://github.com/trillium-rs/trillium) - Trillium is a composable toolkit for building internet applications with async rust
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+- [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
+- [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and serialiser for JavaScript
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
+- [in-toto/attestation](https://github.com/in-toto/attestation) - in-toto Attestation Framework
 
 <a name="vim-neovim"></a>
 
